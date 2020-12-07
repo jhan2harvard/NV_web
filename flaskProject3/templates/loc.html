@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+    <title>{% block title %} {% endblock %}</title>
+
+</head>
+
+<link href="{{url_for('static', filename='css/style.css')}}" rel="stylesheet">
+{#<link href="{{url_for('static', filename='css/style_main.css')}}" rel="stylesheet">#}
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+<header>
+
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+    <div class="container">
+      <a class="navbar-brand" href="/"> HarvardCGBC </a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item active">
+            <a class="nav-link" href="#">Home
+              <span class="sr-only">(current)</span>
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">About</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Background</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="contact.html">Contact</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+</header>
+
+<body>
+{#{% extends "base.html" %}#}
+{#{% block title %}Regional NVHours page{% endblock %}#}
+
+{% block content %}
+{#      <a href=mapFunction><input type=”button” value=”MapView”></a>#}
+    <script src="jquery.js"></script>
+      <div class="row">
+
+        <div class="container fill" style="padding: 10px 20px 10px 20px">
+        <h1>Regional NV hours</h1>
+        <h1>Regional NV hours</h1>
+
+{#            <iframe style="width: 100%; height: 550px; border: 0;" src="https://www.twilio.com/blog/how-run-flask-application"></iframe>#}
+        <iframe style="width: 100%; height: 550px; border: 0;" src="http://67.207.93.186/"></iframe>
+
+        <p>html_string</p>
+
+
+        </div>
+
+      </div>
+
+{% endblock %}
+
+{#{% extends 'test.html' %}#}
+</body>
+
+<footer class="expand-lg bg-dark fixed-bottom">
+  <div class="container" class="text-center" style="padding-top: 20px; padding-bottom: 20px;">
+    <!--Grid row-->
+      <div class="row justify-content-center" >
+          <div align="center"><img src="static/img/CGBClogo.png"  class="img-fluid" style="width: auto; height: 70px;"
+               alt="">            </div>
+          <div align="center"><img src="static/img/GSDlogo.png" class="img-fluid" style="width: auto; height: 70px;"
+               alt="">            </div>
+      </div>
+  <hr>
+    <p class="m-0 text-center text-white">Copyright &copy; Harvard Center for Green Buildings and Cities</p>
+  </div>
+</footer>
+
+<script src="static/js/main.js"></script>
+<script src="static/vendor/jquery/jquery.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+{#  <script src="static/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>#}
+</html>

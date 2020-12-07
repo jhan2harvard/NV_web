@@ -1,0 +1,9 @@
+
+
+#name-header h1 {
+       font-family: 'Open Sans',sans-serif; /*If specific font for the player title*/
+       font-weight: 400; /*The higher the number, the more bold*/
+       font-size: 22px; /*Set size of the title*/
+       color: #333333; /*Set font color of the title*/
+}
+

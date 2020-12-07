@@ -1,0 +1,123 @@
+{% extends "base.html" %}
+{% block title %}Regional NVHours page{% endblock %}
+{% block content %}
+
+    <h2 id="title_location"> Spatial NV hours</h2>
+    <div class="container">
+    <form action="#" method="post">
+{#        <h1 class="title" id="title_location">Regional NV hour - </h1>#}
+    <p> Zipcode: <input type="number" name="zipcode"/></p>
+{#      <legend class="heading">Location information</legend>#}
+    <hr>
+
+  <div align="center"><img src="static/img/outline.png" class="img-fluid" style="width: auto; height: 300px;"
+   alt="">            </div>
+    <hr>
+
+{##}
+{#<div class="container">#}
+  <div class="row">
+    <div class="col-sm">
+        <p>Location Information</p>
+{#        <p> <input type="text" name="zipcode"/></p>#}
+      <label>Orientation (<span class="units SI">&deg;</span>)</label>
+        <p> <input type="number" name="Ori"/></p>
+
+      <label>Vertical Room Loc (<span class="units SI">m</span>)</label>
+        <p> <input type="number" name="VerLoc"/></p>
+
+      <label>Building Height(<span class="units SI">m</span>)</label>
+        <p> <input type="number" name="BldgHeight"/></p>
+
+      <label>Horizontal Room Loc (<span class="units SI">m</span>)</label>
+        <p> <input type="number" name="HorLoc"/></p>
+
+      <label>Facade Width(<span class="units SI">m</span>)</label>
+        <p> <input type="number" name="WidthFacade"/></p>
+
+      <label>Adjacent Facade Width (<span class="units SI">m</span>)</label>
+        <p> <input type="number" name="WidthAdjFacade"/></p>
+
+    </div>
+    <div class="col-sm">
+        <p>Building Information</p>
+
+      <label for="ceiling">Ceiling Height (<span class="units IP">m</span>)</label>
+        <p> <input type="number" name="CeilingH"/></p>
+      <label for="floorAreas">Floor Areas (<span class="units IP">m2</span>)</label>
+        <p> <input type="number" name="FloorA"/></p>
+    </div>
+    <div class="col-sm">
+        <p>Window Information</p>
+
+        <select name="windows" id="windows">
+          <option value="Casement">Casement</option>
+          <option value="Hopper">Hopper</option>
+          <option value="Awning">Awning</option>
+          <option value="Sliding">Sliding</option>
+        </select>
+      <br><br>
+
+
+      <label for="SouthWindows">South | Window Areas (<span class="units SI">m2</span>)</label>
+        <p> <input type="number" name="South"/></p>
+
+      <label for="EastWindows">East | Window Areas (<span class="units SI">m2</span>)</label>
+        <p> <input type="number" name="East"/></p>
+
+      <label for="NorthWindows">North | Window Areas (<span class="units SI">m2</span>)</label>
+        <p> <input type="number" name="North"/></p>
+
+      <label for="WestWindows">West | Window Areas (<span class="units SI">m2</span>)</label>
+        <p> <input type="number" name="West"/></p>
+
+        <p> <input type="submit" name="submit"/></p>
+
+
+
+    </div>
+  </div>
+{#</div>#}
+
+
+    </form>
+    </div>
+
+
+{#	<body style="padding-left: 20vh; padding-right: 20vh; padding-top: 5vh">#}
+{#	<p class="title" id="title_location">Regional NV hour - </p>#}
+{#	<div class="container">#}
+{#		<p class="subtitle">Annual</p>#}
+{#		<div class="row justify-content-center" style="height: 320px;">#}
+{#			<div class="align-self-center">#}
+{#				<div id="Chart_1"></div>#}
+{#			</div>#}
+{#		</div>#}
+{#		<div class="row" style="height: 350px;">#}
+{#			<div class="col-md-6">#}
+{#				<p class="subtitle" id="month_subtitle">Monthly</p>#}
+{#				<div id="Chart_2"></div>#}
+{#			</div>#}
+{#			<div class="col-md-6">#}
+{#				<p class="subtitle" id="day_subtitle">Daily</p>#}
+{#				<div id="Chart_3"></div>#}
+{#			</div>#}
+{#		</div>#}
+{#	</div>#}
+
+<script src="{{url_for('static', filename='js/main.js')}}"></script>
+<script src="{{url_for('static', filename='js/d3.js')}}"></script>
+{#<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>#}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+<!-- embedding JS libraries -->
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+
+<!-- d3 -->
+<script src="https://d3js.org/d3.v6.min.js"></script>
+{#<script src="d3.min.js"></script>#}
+
+    {#  <script src="static/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>#}
+{% endblock %}

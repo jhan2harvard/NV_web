@@ -1,0 +1,67 @@
+{% extends "base.html" %}
+{% block title %}Regional NVHours page{% endblock %}
+
+{% block content %}
+
+       <h2> Regional NV hours </h2>
+    <br>
+    <form action="#" method="post">
+
+        <p> Zipcode: <input type="number" name="zipcode"/>
+{#            Latitude: <input type="number" name="lat"/>#}
+{#            Longitude: <input type="number" name="long"/>#}
+         <input type="submit" name="submit"/></p>
+
+       </form>
+    <hr>
+        <iframe style="width: 100%; height: 550px; border: 0;" src="http://127.0.0.1:5000/loc"></iframe>
+
+      <hr>
+
+
+      <div class="row">
+        <div class="col-sm-3 col-md-3">
+          <div class="card border-light mb-3" style="width: 15rem;">
+            <div class="card-body text-muted">
+              <div align="center"><ppp class="card-title">Temperature</ppp></div>
+              <div align="center"><pp class="card-title">24.5</pp></div>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-3 col-md-3">
+          <div class="card border-light mb-3" style="width: 15rem;">
+            <div class="card-body text-muted">
+              <div align="center"><ppp class="card-title">Relative Humidity</ppp></div>
+              <div align="center"><pp class="card-title">80%</pp></div>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-3 col-md-3">
+          <div class="card border-light mb-3" style="width: 15rem;">
+            <div class="card-body text-muted">
+              <div align="center"><ppp class="card-title">Wind speed</ppp></div>
+              <div align="center"><pp class="card-title">3.2 m/s</pp></div>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-3 col-md-3">
+          <div class="card border-light mb-3" style="width: 15rem;">
+            <div class="card-body text-muted">
+              <div align="center"><ppp class="card-title">Wind direction</ppp></div>
+              <div align="center"><pp class="card-title">180</pp></div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+{#       <h1> Regional NV hours </h1>#}
+{#       <h1> Regional NV hours </h1>#}
+{#       <h1> Regional NV hours </h1>#}
+{#       <h1> Regional NV hours </h1>#}
+{##}
+{#       <h1> Regional NV hours </h1>#}
+{#       <h1> Regional NV hours </h1>#}
+{#       <h1> Regional NV hours </h1>#}
+{#       <h1> Regional NV hours </h1>#}
+
+{% endblock %}

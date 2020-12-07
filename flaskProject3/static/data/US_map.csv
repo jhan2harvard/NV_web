@@ -1,0 +1,1010 @@
+No.,State,Location,Latitude,Longtitude,Average drybulb(?),Average r.humidity (%),NV hours,NV%
+1,AK,Adak Nas,51.88,-176.65,4.36,75.7,169,1.9
+2,AK,Ambler,67.1,-157.85,-3.11,68.72,860,9.8
+3,AK,Anaktuvuk Pass,68.13,-151.73,-6.46,70.69,402,4.6
+4,AK,Anchorage Intl Ap,61.18,-150,2.96,71.81,1860,21.2
+5,AK,Anchorage Elmendorf,61.25,-149.8,4.72,74.66,2008,22.9
+6,AK,Lake Hood Seaplane,61.18,-149.97,4.59,70.98,1694,19.3
+7,AK,Anchorage Merrill Field,61.22,-149.85,4.5,72.44,1937,22.1
+8,AK,Aniak Airport,61.58,-159.53,0.92,67.65,965,11
+9,AK,Annette Island Ap,55.05,-131.57,7.93,80.59,1614,18.4
+10,AK,Anvik,62.65,-160.18,0.74,62.52,978,11.2
+11,AK,Barrow W Post W Rogers Arpt  N,71.32,-156.62,-11.82,84.19,60,0.7
+12,AK,Bethel Airport,60.78,-161.83,0.01,81.11,935,10.7
+13,AK,Bettles Field,66.92,-151.52,-4.2,68.91,1442,16.5
+14,AK,Big Delta Allen Aaf,64,-145.72,-0.6,62.49,1733,19.8
+15,AK,Big River Lake,60.82,-152.3,3.13,73.41,1394,15.9
+16,AK,Birchwood,61.42,-149.52,3.95,69.38,1514,17.3
+17,AK,Chulitna,62.88,-149.83,2.04,74.04,921,10.5
+18,AK,Cold Bay Arpt,55.2,-162.72,3.85,84.18,196,2.2
+19,AK,Cordova,60.5,-145.5,4.35,78.13,1139,13
+20,AK,Deadhorse,70.2,-148.48,-9.51,81.88,274,3.1
+21,AK,Dillingham  Amos,59.05,-158.52,2.4,73.57,824,9.4
+22,AK,Fairbanks Eielson A,64.65,-147.1,-0.09,74.12,1662,19
+23,AK,Emmonak,62.78,-164.5,0.32,79.6,827,9.4
+24,AK,Fairbanks Intl Arpt,64.82,-147.85,-1.43,67.81,2013,23
+25,AK,Fort Yukon,66.57,-145.27,-4.48,64.44,1537,17.5
+26,AK,Gambell,63.78,-171.75,-1.98,75.73,15,0.2
+27,AK,Gulkana Intermediate Field,62.15,-145.45,-1.89,70.05,1246,14.2
+28,AK,Gustavus,58.42,-135.7,4.78,75.25,1019,11.6
+29,AK,Hayes River,61.98,-152.08,2.67,69.03,1274,14.5
+30,AK,Healy River Airport,63.88,-149.02,1.95,63.71,1401,16
+31,AK,Homer Arpt,59.65,-151.48,3.78,75.5,1130,12.9
+32,AK,Hoonah,58.08,-135.45,5.02,81.01,1493,17
+33,AK,Hooper Bay,61.52,-166.15,0.19,77.93,224,2.6
+34,AK,Huslia,65.7,-156.38,-2.13,67.17,1067,12.2
+35,AK,Hydaburg Seaplane,55.2,-132.83,8.84,67.65,1130,12.9
+36,AK,Juneau IntL Arpt,58.35,-134.58,5.48,81.01,1473,16.8
+37,AK,Kake Seaplane Base,56.97,-133.95,5.77,75.25,1358,15.5
+38,AK,Kenai Municipal Ap,60.58,-151.23,3.32,76.49,1125,12.8
+39,AK,Ketchikan Intl Ap,55.37,-131.72,6.28,78.33,1832,20.9
+40,AK,King Salmon Arpt,58.68,-156.65,2.05,79.06,961,11
+41,AK,Kodiak Airport,57.75,-152.5,5.42,77.83,877,10
+42,AK,Kotzebue Ralph Wein Memorial,66.88,-162.6,-4.83,79.72,820,9.4
+43,AK,Mcgrath Arpt,62.95,-155.6,-2.75,72.51,1440,16.4
+44,AK,Mekoryuk,60.37,-166.27,0.91,80.21,113,1.3
+45,AK,Middleton Island Aut,59.47,-146.32,5.71,67.78,896,10.2
+46,AK,Minchumina,63.88,-152.28,-0.92,63.27,1714,19.6
+47,AK,Nenana Municipal Ap,64.55,-149.1,-0.89,59.5,1515,17.3
+48,AK,Nome Municipal Arpt,64.52,-165.45,-1.82,73.32,646,7.4
+49,AK,Northway Airport,62.97,-141.93,-4.49,69.05,1384,15.8
+50,AK,Palmer Municipal,61.6,-149.08,5.26,68.11,1731,19.8
+51,AK,Petersburg,56.8,-132.95,5.51,79.42,1313,15
+52,AK,Point Hope  Awos,68.35,-166.8,-4.4,77.39,42,0.5
+53,AK,Port Heiden,56.95,-158.62,3.17,68.6,378,4.3
+54,AK,Saint Mary S  Awos,62.07,-163.3,0.54,77.15,513,5.9
+55,AK,Sand Point,55.32,-160.52,4.42,73.49,389,4.4
+56,AK,Savoonga,63.68,-170.5,-1.6,71.93,130,1.5
+57,AK,Selawik,66.6,-160,-3.97,78.16,756,8.6
+58,AK,Seward,60.12,-149.45,4.47,75.64,1064,12.1
+59,AK,Shemya Afb,52.72,174.12,3.32,81.04,12,0.1
+60,AK,Shishmaref  Awos,66.27,-166.05,-3.72,78.23,107,1.2
+61,AK,Sitka Japonski Ap,57.05,-135.37,6.18,72.84,1304,14.9
+62,AK,Skagway Airport,59.47,-135.3,5.66,68.59,1763,20.1
+63,AK,Sleetmute,61.72,-157.15,1.18,67.03,1204,13.7
+64,AK,Soldotna,60.47,-151.03,3.17,71.12,1378,15.7
+65,AK,St Paul Island Arpt,57.17,-170.22,2.32,85.88,25,0.3
+66,AK,Talkeetna State Arpt,62.32,-150.1,1.8,74.3,1540,17.6
+67,AK,Tanana Ralph M Calhoun Mem Ap,65.17,-152.1,-2.08,69.61,1265,14.4
+68,AK,Togiac Village Awos,59.05,-160.4,2.69,76.17,873,10
+69,AK,Unalakleet Field,63.88,-160.8,-0.35,68.76,613,7
+70,AK,Dutch Harbor,53.9,-166.55,4.69,74.34,330,3.8
+71,AK,Valdez Wso,61.13,-146.35,4.08,74.86,993,11.3
+72,AK,Valdez Pioneer Fiel,61.13,-146.27,4.41,75.22,968,11.1
+73,AK,Whittier,60.77,-148.68,4.08,78.17,913,10.4
+74,AK,Wrangell,56.48,-132.37,6.15,75.67,1406,16.1
+75,AK,Yakutat State Arpt,59.52,-139.63,4.65,83.74,1053,12
+76,AL,Anniston Metropolitan Ap,33.58,-85.85,16.68,76.1,2637,30.1
+77,AL,Auburn Opelika Apt,32.62,-85.43,16.24,67.67,3126,35.7
+78,AL,Birmingham Municipal Ap,33.57,-86.75,16.97,69.78,2624,30
+79,AL,Dothan Municipal Ap,31.23,-85.43,18.66,69.36,2941,33.6
+80,AL,Cairns Field Fort Rucker,31.27,-85.72,17.59,74.54,2370,27.1
+81,AL,Gadsen Muni  Awos,33.97,-86.08,15.6,71.17,3054,34.9
+82,AL,Huntsville Intl Jones Field,34.65,-86.78,15.54,70.37,2790,31.8
+83,AL,Maxwell Afb,32.38,-86.35,17.77,68.73,2420,27.6
+84,AL,Mobile Downtown Ap,30.63,-88.07,19.35,75.28,2929,33.4
+85,AL,Mobile Regional Ap,30.68,-88.25,19.25,74.3,2454,28
+86,AL,Montgomery Dannelly Field,32.3,-86.4,17.99,71.24,2747,31.4
+87,AL,Muscle Shoals Regional Ap,34.75,-87.6,16.55,75.23,2819,32.2
+88,AL,Troy Af,31.87,-86.02,18.09,75.39,2347,26.8
+89,AL,Tuscaloosa Municipal Ap,33.22,-87.62,17.26,74.11,2436,27.8
+90,AR,Batesville  Awos,35.73,-91.65,15.17,64.21,3069,35
+91,AR,Bentonville  Awos,36.35,-94.22,13.89,68.69,2318,26.5
+92,AR,El Dorado Goodwin Field,33.22,-92.82,17.84,75,2049,23.4
+93,AR,Fayetteville Drake Field,36,-94.17,15.32,70.72,2672,30.5
+94,AR,Flippin  Awos,36.3,-92.47,15.03,64.81,3118,35.6
+95,AR,Fort Smith Regional Ap,35.33,-94.37,15.61,70.23,2321,26.5
+96,AR,Harrison Faa Ap,36.27,-93.15,14.83,70.21,2700,30.8
+97,AR,Memorial Fld,34.47,-93.1,16.49,70.47,2548,29.1
+98,AR,Jonesboro Muni,35.83,-90.65,14.84,70.97,2283,26.1
+99,AR,Little Rock Afb,34.92,-92.15,16.07,70.76,2203,25.1
+100,AR,Little Rock Adams Field,34.75,-92.23,16.57,69.86,2689,30.7
+101,AR,Pine Bluff Faa Ap,34.17,-91.93,16.79,72.34,1933,22.1
+102,AR,Rogers  Awos,36.37,-94.1,14.31,63.73,2725,31.1
+103,AR,Siloam Spring Awos,36.18,-94.48,14.9,66.11,3104,35.4
+104,AR,Springdale Muni,36.18,-94.12,14.45,68.25,2701,30.8
+105,AR,Stuttgart  Awos,34.6,-91.57,17.11,70.63,2553,29.1
+106,AR,Texarkana Webb Field,33.45,-94,18.23,72.12,2407,27.5
+107,AR,Walnut Ridge  Awos,36.13,-90.92,15.21,67.83,2693,30.7
+108,AZ,Casa Granda  Awos,32.95,-111.77,21.96,34.08,4431,50.6
+109,AZ,Davis Monthan Afb,32.17,-110.88,21.71,34.92,4883,55.7
+110,AZ,Douglas Bisbee Douglas Intl A,31.47,-109.6,17.62,41.44,4661,53.2
+111,AZ,Flagstaff Pulliam Arpt,35.13,-111.67,7.89,51.25,2699,30.8
+112,AZ,Grand Canyon Natl P,35.95,-112.15,8.71,49.43,2741,31.3
+113,AZ,Kingman  Amos,35.27,-113.95,17.62,37.16,3918,44.7
+114,AZ,Luke Afb,33.55,-112.37,23.09,37.24,4590,52.4
+115,AZ,Page Muni  Amos,36.93,-111.45,15.78,37.55,3912,44.7
+116,AZ,Deer Valley Phoenix,33.68,-112.08,22.77,33.98,4615,52.7
+117,AZ,Phoenix Sky Harbor Intl Ap,33.45,-111.98,23.8,34.23,4591,52.4
+118,AZ,Prescott Love Field,34.65,-112.42,13.49,45.04,3819,43.6
+119,AZ,Safford  Amos,32.82,-109.68,19.76,34.22,4670,53.3
+120,AZ,Scottsdale Muni,33.62,-111.92,22.75,35.58,4434,50.6
+121,AZ,Show Low Municipal,34.27,-110,12.15,43.96,4013,45.8
+122,AZ,Tucson International Ap,32.13,-110.95,20.41,38.49,4423,50.5
+123,AZ,Winslow Municipal Ap,35.03,-110.72,13.35,42.59,3622,41.3
+124,AZ,Yuma Intl Arpt,32.67,-114.6,24.27,31.99,5182,59.2
+125,AZ,Yuma Mcas,32.65,-114.62,23.98,35.67,4964,56.7
+126,CA,Alturas,41.5,-120.53,9.16,60.24,2373,27.1
+127,CA,Arcata Airport,40.98,-124.1,10.74,83.88,2882,32.9
+128,CA,Bakersfield Meadows Field,35.43,-119.05,18.51,54.87,4886,55.8
+129,CA,Daggett Barstow Daggett Ap,34.85,-116.8,19.69,36.24,4594,52.4
+130,CA,Beale Afb,39.13,-121.43,16.84,58.62,4267,48.7
+131,CA,Bishop Airport,37.37,-118.35,14.35,36.54,3381,38.6
+132,CA,Blue Canyon Ap,39.3,-120.72,11.05,52.32,3782,43.2
+133,CA,Blythe Riverside Co Arpt,33.62,-114.72,24.27,29.23,4715,53.8
+134,CA,Burbank Glendale Passadena Ap,34.2,-118.35,17.83,61.86,5911,67.5
+135,CA,Camarillo  Awos,34.22,-119.08,15.58,68.71,6169,70.4
+136,CA,Camp Pendleton Mcas,33.3,-117.35,15.64,73.72,5977,68.2
+137,CA,Carlsbad Palomar,33.13,-117.28,15.72,76.29,6674,76.2
+138,CA,China Lake Naf,35.68,-117.68,18.16,31.16,4031,46
+139,CA,Chino Airport,33.97,-117.63,17.14,65.62,5335,60.9
+140,CA,Chula Vista Brown Field Naas,32.58,-116.98,16.01,71.86,6496,74.2
+141,CA,Concord Concord Buchanan Fiel,38,-122.05,15.01,68.26,4940,56.4
+142,CA,Crescent City Faa Ai,41.78,-124.23,10.85,82.65,2510,28.7
+143,CA,Edwards Afb,34.9,-117.87,16.01,42.82,3766,43
+144,CA,Travis Field Afb,38.27,-121.93,15.67,61.85,4573,52.2
+145,CA,Fresno Yosemite Intl Ap,36.78,-119.72,17.9,58.95,4617,52.7
+146,CA,Fullerton Municipal,33.87,-117.98,17.65,67.2,6182,70.6
+147,CA,Jack Northrop Fld H,33.92,-118.33,16.82,70.25,7358,84
+148,CA,Hayward Air Term,37.67,-122.12,14.79,72.6,5889,67.2
+149,CA,Imperial,32.83,-115.58,23.37,39.35,4692,53.6
+150,CA,Lancaster Gen Wm Fox Field,34.73,-118.22,16.88,42.19,4191,47.8
+151,CA,Lemoore Reeves Nas,36.33,-119.95,16.94,58.86,4322,49.3
+152,CA,Livermore Municipal,37.7,-121.82,14.15,69.67,4376,50
+153,CA,Lompoc  Awos,34.67,-120.47,12.95,60.32,4569,52.2
+154,CA,Long Beach Daugherty Fld,33.83,-118.17,17.48,69.44,6706,76.6
+155,CA,Los Angeles Intl Arpt,33.93,-118.4,16.84,73,7197,82.2
+156,CA,March Afb,33.9,-117.25,17.26,51.82,4539,51.8
+157,CA,Merced Macready Fld,37.28,-120.52,16.85,62.31,4510,51.5
+158,CA,Modesto City County Ap,37.63,-120.95,16.91,60.81,4793,54.7
+159,CA,Montague Siskiyou County Ap,41.78,-122.47,11.36,56.65,2931,33.5
+160,CA,Monterey Naf,36.6,-121.87,13.12,75.66,4913,56.1
+161,CA,Mountain View Moffett Fld Nas,37.4,-122.05,14.76,69.96,5447,62.2
+162,CA,Napa Co  Airport,38.22,-122.28,13.36,77.31,4474,51.1
+163,CA,Needles Airport,34.77,-114.62,24.09,29.92,4679,53.4
+164,CA,Oakland Metropolitan Arpt,37.72,-122.22,13.94,76.61,5547,63.3
+165,CA,Oxnard Airport,34.2,-119.2,15.37,73.25,6588,75.2
+166,CA,Palm Springs Intl,33.83,-116.5,24.07,35.33,5383,61.4
+167,CA,Palm Springs Thermal Ap,33.63,-116.17,22.84,43.24,4306,49.2
+168,CA,Palmdale Airport,34.63,-118.08,16.9,39.87,4128,47.1
+169,CA,Paso Robles Municipal Arpt,35.67,-120.63,14.81,62.97,3798,43.4
+170,CA,Point Mugu Nf,34.12,-119.12,14.86,78.5,6290,71.8
+171,CA,Porterville  Awos,36.03,-119.07,16.95,52.2,4419,50.4
+172,CA,Red Bluff Municipal Arpt,40.15,-122.25,16.79,56.88,3962,45.2
+173,CA,Redding Municipal Arpt,40.52,-122.32,16.86,55.39,4223,48.2
+174,CA,Riverside Muni,33.95,-117.45,17.46,60.79,5428,62
+175,CA,Sacramento Executive Arpt,38.5,-121.5,15.55,66.77,4374,49.9
+176,CA,Sacramento Metropolitan Ap,38.7,-121.58,15.9,67.17,4337,49.5
+177,CA,Salinas Municipal Ap,36.67,-121.6,13.42,75.16,5109,58.3
+178,CA,San Diego Lindbergh Field,32.73,-117.17,17.71,70.3,6864,78.4
+179,CA,San Diego Miramar Nas,32.87,-117.13,16.15,73.27,5390,61.5
+180,CA,San Diego Montgomer,32.82,-117.13,16.53,70.43,6748,77
+181,CA,San Diego North Island Nas,32.7,-117.2,16.5,80.49,6326,72.2
+182,CA,San Francisco Intl Ap,37.62,-122.4,13.79,74.48,5337,60.9
+183,CA,San Jose Intl Ap,37.37,-121.93,14.88,68.59,5813,66.4
+184,CA,San Luis Co Rgnl,35.23,-120.63,14.25,71.73,5162,58.9
+185,CA,Sandberg,34.75,-118.72,14.15,44.55,4122,47.1
+186,CA,Santa Ana John Wayne Ap,33.68,-117.87,17.21,74.54,7016,80.1
+187,CA,Santa Barbara Municipal Ap,34.43,-119.85,14.74,76.54,6047,69
+188,CA,Santa Maria Public Arpt,34.92,-120.47,13.37,75.66,4831,55.1
+189,CA,Santa Monica Muni,34.02,-118.45,16.63,72.94,7050,80.5
+190,CA,Santa Rosa  Awos,38.52,-122.82,13.73,76.08,3858,44
+191,CA,South Lake Tahoe,38.9,-120,6.57,57.82,2129,24.3
+192,CA,Stockton Metropolitan Arpt,37.9,-121.23,16.15,66.53,4425,50.5
+193,CA,Truckee Tahoe,39.32,-120.13,6.33,64.16,1677,19.1
+194,CA,Twentynine Palms,34.3,-116.17,20.46,33.35,4507,51.4
+195,CA,Ukiah Municipal Ap,39.13,-123.2,14.37,65.47,3792,43.3
+196,CA,Van Nuys Airport,34.22,-118.48,18.08,62.08,6085,69.5
+197,CA,Visalia Muni  Awos,36.32,-119.4,16.03,60.5,4016,45.8
+198,CA,Yuba Co,39.1,-121.57,16.46,64.63,4325,49.4
+199,CO,Akron Washington Co Ap,40.17,-103.23,9.98,59.25,2969,33.9
+200,CO,Alamosa San Luis Valley Rgnl,37.43,-105.87,5.27,57.06,2484,28.4
+201,CO,Aspen Pitkin Co Sar,39.22,-106.87,5.66,54.04,2120,24.2
+202,CO,Aurora Buckley Field Angb,39.72,-104.75,10.02,55.15,3179,36.3
+203,CO,Broomfield Jeffco  Boulder   S,40.13,-105.24,10.3,51.33,3152,36
+204,CO,Colorado Springs Muni Ap,38.82,-104.72,9.68,50.46,3232,36.9
+205,CO,Cortez Montezuma Co,37.3,-108.63,10.08,55.47,2833,32.3
+206,CO,Craig Moffat,40.5,-107.53,5.39,60.68,2283,26.1
+207,CO,Denver Intl Ap,39.83,-104.65,10.88,49.62,3365,38.4
+208,CO,Durango La Plata Co,37.15,-107.75,8.09,55.58,2810,32.1
+209,CO,Eagle County Ap,39.65,-106.92,6.22,56.9,2366,27
+210,CO,Fort Collins  Awos,40.45,-105.02,8.32,55.17,2816,32.1
+211,CO,Denver Centennial  Golden   Nr,39.74,-105.18,9.76,53.75,3132,35.8
+212,CO,Grand Junction Walker Field,39.13,-108.53,12.05,45.88,3442,39.3
+213,CO,Greeley Weld  Awos,40.43,-104.63,8.4,56.97,2735,31.2
+214,CO,Gunnison Co   Awos,38.53,-106.93,4.19,50.49,2194,25
+215,CO,Hayden Yampa  Awos,40.48,-107.22,6.11,55.02,2435,27.8
+216,CO,La Junta Municipal Ap,38.05,-103.53,12.18,54.19,3230,36.9
+217,CO,Lamar Municipal,38.07,-102.68,11.46,60.23,2871,32.8
+218,CO,Leadville Lake Co,39.22,-106.32,2.74,53.24,1447,16.5
+219,CO,Limon,39.18,-103.72,8.64,60.36,2983,34.1
+220,CO,Montrose Co  Arpt,38.5,-107.9,10.17,51.72,3173,36.2
+221,CO,Pueblo Memorial Ap,38.28,-104.5,11.69,54.84,3470,39.6
+222,CO,Rifle Garfield Rgnl,39.53,-107.72,10.04,52.37,3075,35.1
+223,CO,Trinidad Las Animas County Ap,37.27,-104.33,11.21,49.66,3534,40.3
+224,CT,Bridgeport Sikorsky Memorial,41.18,-73.15,11.11,68.6,2634,30.1
+225,CT,Danbury Municipal,41.37,-73.48,9.94,72.73,2761,31.5
+226,CT,Groton New London Ap,41.33,-72.05,10.45,74.89,2556,29.2
+227,CT,Hartford Bradley Intl Ap,41.93,-72.68,10.4,64.03,2705,30.9
+228,CT,Hartford Brainard Fd,41.73,-72.65,10.92,69.68,3068,35
+229,CT,New Haven Tweed Airport,41.27,-72.88,11.05,71.7,2739,31.3
+230,CT,Oxford  Awos,41.48,-73.13,9.44,71.68,2484,28.4
+231,DE,Dover Afb,39.13,-75.47,12.29,69.04,2634,30.1
+232,DE,Wilmington New Castle Cnty Ap,39.67,-75.6,12.27,68.13,2440,27.9
+233,FL,Crestview Bob Sikes Ap,30.78,-86.52,19.09,78.64,2235,25.5
+234,FL,Daytona Beach Intl Ap,29.18,-81.07,21.28,75.92,2920,33.3
+235,FL,Fort Lauderdale,26.2,-80.17,24.07,73.66,2454,28
+236,FL,Fort Lauderdale Hollywood Int,26.07,-80.15,24.76,74.46,1819,20.8
+237,FL,Fort Myers Page Field,26.58,-81.87,23.78,76.52,2240,25.6
+238,FL,St Lucie Co Intl,27.48,-80.37,21.64,77.68,2783,31.8
+239,FL,Valparaiso Hurlburt,30.42,-86.68,19.26,74.57,2434,27.8
+240,FL,Gainesville Regional Ap,29.7,-82.28,20.08,77.49,2377,27.1
+241,FL,Homestead Afb,25.48,-80.38,23.93,75.24,2050,23.4
+242,FL,Jacksonville Intl Arpt,30.5,-81.7,19.89,77.78,2771,31.6
+243,FL,Jacksonville Nas,30.23,-81.67,20.97,74.93,2575,29.4
+244,FL,Jacksonville Craig,30.33,-81.52,20.52,78.87,2804,32
+245,FL,Key West Intl Arpt,24.55,-81.75,25.56,73.14,1633,18.6
+246,FL,Key West Nas,24.58,-81.68,25.38,75.04,1875,21.4
+247,FL,Lakeland Linder Rgn,27.98,-82.02,21.42,74.55,2469,28.2
+248,FL,Macdill Afb,27.85,-82.52,21.89,73.54,2219,25.3
+249,FL,Marathon Airport,24.73,-81.05,26,75.63,1175,13.4
+250,FL,Mayport Ns,30.4,-81.42,20.81,73.65,3187,36.4
+251,FL,Melbourne Regional Ap,28.12,-80.65,22.65,77.08,2622,29.9
+252,FL,Miami Intl Ap,25.82,-80.3,24.51,72.61,1906,21.8
+253,FL,Miami Kendall Tamia,25.65,-80.43,23.2,77.48,2482,28.3
+254,FL,Miami Opa Locka,25.9,-80.28,24,75.41,2553,29.1
+255,FL,Naples Municipal,26.15,-81.77,22.89,72.92,3279,37.4
+256,FL,Nasa Shuttle Fclty,28.62,-80.72,21.68,76.84,2504,28.6
+257,FL,Ocala Muni  Awos,29.17,-82.22,20.38,72.42,2991,34.1
+258,FL,Orlando Executive Ap,28.55,-81.33,22.16,73.44,2678,30.6
+259,FL,Orlando Intl Arpt,28.43,-81.33,21.87,77.06,2637,30.1
+260,FL,Orlando Sanford Airport,28.78,-81.25,21.65,71.41,3277,37.4
+261,FL,Panama City Bay Co,30.2,-85.68,20.61,75.77,2415,27.6
+262,FL,Pensacola Forest Sherman Nas,30.35,-87.32,19.85,76.03,2427,27.7
+263,FL,Sarasota Bradenton,27.38,-82.55,22.24,78.72,2513,28.7
+264,FL,Southwest Florida I,26.53,-81.75,22.63,79.64,2293,26.2
+265,FL,St Petersburg Albert Whitted,27.77,-82.63,23.11,75.36,2650,30.3
+266,FL,St Petersburg Clear,27.9,-82.68,22.32,74.41,2553,29.1
+267,FL,Tallahassee Regional Ap  Isis,30.38,-84.37,19.35,75.24,2692,30.7
+268,FL,Tampa International Ap,27.97,-82.53,22.29,75.27,2411,27.5
+269,FL,Tyndall Afb,30.07,-85.58,18.76,75.71,2457,28
+270,FL,Valparaiso Elgin Afb,30.48,-86.52,18.71,72.47,2568,29.3
+271,FL,Vero Beach Municipal Arpt,27.65,-80.42,23.06,77.68,2315,26.4
+272,FL,West Palm Beach Intl Arpt,26.68,-80.1,23.55,75.54,2101,24
+273,FL,Whiting Field Naas,30.72,-87.02,18.96,76.36,2622,29.9
+274,GA,Albany Dougherty County Ap,31.53,-84.18,19.1,73.99,2591,29.6
+275,GA,Alma Bacon County Ap,31.53,-82.5,18.22,74.59,2606,29.7
+276,GA,Athens Ben Epps Ap,33.95,-83.33,16.59,68.78,2993,34.2
+277,GA,Atlanta Hartsfield Intl Ap,33.63,-84.43,16.65,65.74,3130,35.7
+278,GA,Augusta Bush Field,33.37,-81.97,17.32,70.88,2738,31.3
+279,GA,Brunswick Golden Is,31.25,-81.47,18.72,77.84,2176,24.8
+280,GA,Brunswick Malcolm Mckinnon Ap,31.15,-81.38,20.18,81.39,2498,28.5
+281,GA,Columbus Metropolitan Arpt,32.52,-84.95,18.55,70.8,2615,29.9
+282,GA,Dekalb Peachtree,33.87,-84.3,15.69,68.23,2532,28.9
+283,GA,Fort Benning Lawson,32.35,-85,16.11,72.6,2111,24.1
+284,GA,Fulton Co Arpt Brow,33.77,-84.52,16.15,72.46,2675,30.5
+285,GA,Macon Middle Ga Regional Ap,32.68,-83.65,17.8,71.23,2561,29.2
+286,GA,Marietta Dobbins Afb,33.92,-84.52,14.62,68.79,2540,29
+287,GA,Rome R B Russell Ap,34.35,-85.17,15.85,69.12,2603,29.7
+288,GA,Savannah Intl Ap,32.12,-81.2,19.1,72.62,2943,33.6
+289,GA,Hunter Aaf,32,-81.15,18.24,71.91,2571,29.3
+290,GA,Valdosta Wb Airport,30.78,-83.28,19.85,77.38,2374,27.1
+291,GA,Moody Afb Valdosta,30.97,-83.2,18.49,69.28,3014,34.4
+292,GA,Warner Robins Afb,32.63,-83.6,16.64,71.09,2328,26.6
+293,HI,Barbers Point Nas,21.32,-158.07,24.75,66.8,3087,35.2
+294,HI,Hilo International Ap,19.72,-155.05,23.08,79.65,1249,14.3
+295,HI,Honolulu Intl Arpt,21.32,-157.93,24.91,68.06,1872,21.4
+296,HI,Kahului Airport,20.9,-156.43,24.15,73.01,1295,14.8
+297,HI,Kaneohe Bay Mcas,21.45,-157.78,24.97,69.26,1594,18.2
+298,HI,Kapalua,20.95,-156.63,24.02,68.04,3201,36.5
+299,HI,Kona Intl At Keahol,19.73,-156.05,25,69.39,2273,25.9
+300,HI,Lanai,20.78,-156.95,21.65,78.79,3160,36.1
+301,HI,Lihue Airport,21.98,-159.33,24.1,76.26,1240,14.2
+302,HI,Molokai  Amos,21.15,-157.1,23.71,68.32,3003,34.3
+303,IA,Algona,43.08,-94.27,8.97,66.81,2651,30.3
+304,IA,Atlantic,41.4,-95.05,9.59,73.57,2085,23.8
+305,IA,Boone Muni,42.05,-93.85,9.52,74.34,2061,23.5
+306,IA,Burlington Municipal Ap,40.78,-91.12,11.93,69.34,2402,27.4
+307,IA,Carroll,42.05,-94.78,9.29,71.4,2409,27.5
+308,IA,Cedar Rapids Municipal Ap,41.88,-91.72,9.01,76.31,2445,27.9
+309,IA,Chariton,41.03,-93.37,10.99,72.17,2115,24.1
+310,IA,Charles City,43.07,-92.62,9.14,78.93,1933,22.1
+311,IA,Clarinda,40.72,-95.03,11.15,77.42,1695,19.3
+312,IA,Clinton Muni  Awos,41.83,-90.33,9.43,71.01,2036,23.2
+313,IA,Council Bluffs,41.27,-95.77,10.76,72.9,2344,26.8
+314,IA,Creston,41.02,-94.37,10.43,74.65,2213,25.3
+315,IA,Decorah,43.28,-91.73,10.54,69.47,2698,30.8
+316,IA,Denison,41.98,-95.38,10.01,72.22,2210,25.2
+317,IA,Des Moines Intl Ap,41.53,-93.67,10.26,64.75,2431,27.8
+318,IA,Dubuque Regional Ap,42.4,-90.7,7.74,73.13,2533,28.9
+319,IA,Estherville Muni,43.4,-94.75,6.41,73.26,2462,28.1
+320,IA,Fair Field,41.05,-91.98,10.76,74.3,2451,28
+321,IA,Fort Dodge  Awos,42.55,-94.18,8.8,70.69,2493,28.5
+322,IA,Fort Madison,40.67,-91.33,11.97,72.62,2689,30.7
+323,IA,Keokuk Muni,40.47,-91.43,11.96,66.6,3014,34.4
+324,IA,Knoxville,41.3,-93.12,11.32,68.6,2372,27.1
+325,IA,Le Mars,42.78,-96.2,10.53,74.16,2681,30.6
+326,IA,Mason City Municipal Arpt,43.15,-93.33,7.4,73.75,2395,27.3
+327,IA,Monticello Muni,42.23,-91.17,9.17,74.15,2661,30.4
+328,IA,Muscatine,41.37,-91.15,10.52,69.68,2365,27
+329,IA,Newton Muni,41.68,-93.02,10.2,74.23,2592,29.6
+330,IA,Oelwen,42.68,-91.97,9.58,75.27,2649,30.2
+331,IA,Orange City,42.98,-96.07,9.21,73.42,2190,25
+332,IA,Ottumwa Industrial Ap,41.1,-92.45,9.56,72.04,2403,27.4
+333,IA,Red Oak,41.02,-95.27,11.04,67.51,2503,28.6
+334,IA,Sheldon,43.22,-95.83,8.94,78.93,1883,21.5
+335,IA,Shenandoah Muni,40.75,-95.42,10.66,73.93,2081,23.8
+336,IA,Sioux City Sioux Gateway Ap,42.38,-96.38,9.48,67.25,2572,29.4
+337,IA,Spencer,43.17,-95.15,6.89,75.26,2385,27.2
+338,IA,Storm Lake,42.6,-95.23,8.88,67.78,2575,29.4
+339,IA,Washington,41.28,-91.67,10.39,74.65,2035,23.2
+340,IA,Waterloo Municipal Ap,42.55,-92.4,8.69,69.7,2398,27.4
+341,IA,Webster City,42.43,-93.87,10.46,69.11,2342,26.7
+342,ID,Boise Air Terminal  Uo,43.62,-116.21,11.2,54.72,3120,35.6
+343,ID,Burley Municipal Arpt,42.53,-113.77,9.71,58.62,2757,31.5
+344,ID,Caldwell  Awos,43.63,-116.63,10.44,56.61,2670,30.5
+345,ID,Coeur D Alene Awos,47.77,-116.82,8.38,67.79,2380,27.2
+346,ID,Hailey Friedman Mem,43.5,-114.3,8.14,51.91,2184,24.9
+347,ID,Idaho Falls Fanning Field,43.52,-112.07,6.94,64.73,2247,25.7
+348,ID,Lewiston Nez Perce Cnty Ap,46.37,-117.02,11.33,60.41,2988,34.1
+349,ID,Malad City,42.15,-112.28,9.14,60.74,2312,26.4
+350,ID,Mountain Home Afb,43.05,-115.87,10.3,54.62,2614,29.8
+351,ID,Pocatello Regional Ap,42.92,-112.57,8.39,58.38,2530,28.9
+352,ID,Salmon Lemhi  Awos,45.12,-113.88,7.33,60.56,2267,25.9
+353,ID,Soda Springs Tigert,42.65,-111.58,6.12,66.04,2044,23.3
+354,ID,Joslin Fld Magic Va  Twin Fall,42.55,-114.35,9.99,55.78,2773,31.7
+355,IL,Aurora Municipal,41.77,-88.47,9.28,75.06,2467,28.2
+356,IL,Belleville Scott Afb,38.55,-89.85,12.17,69.87,2381,27.2
+357,IL,Central Illinois Rg,40.47,-88.92,10.37,69.83,2655,30.3
+358,IL,Cahokia St  Louis,38.57,-90.15,13.42,73.58,2330,26.6
+359,IL,Southern Illinois,37.77,-89.25,14.15,72.35,2195,25.1
+360,IL,Chicago Midway Ap,41.78,-87.75,11.39,65.68,2808,32.1
+361,IL,Chicago Ohare Intl Ap,41.98,-87.92,9.99,70.34,2608,29.8
+362,IL,Decatur,39.83,-88.87,11.71,75.07,2250,25.7
+363,IL,W  Chicago Du Page,41.92,-88.25,10.39,71.55,2530,28.9
+364,IL,Marion Regional,37.75,-89.02,13.28,71.57,2639,30.1
+365,IL,Moline Quad City Intl Ap,41.47,-90.52,10.15,67.15,2431,27.8
+366,IL,Mount Vernon  Awos,38.32,-88.87,13.26,67.64,2730,31.2
+367,IL,Peoria Greater Peoria Ap,40.67,-89.68,10.26,72.06,2545,29.1
+368,IL,Quincy Muni Baldwin Fld,39.93,-91.2,12,73.69,2690,30.7
+369,IL,Rockford Greater Rockford Ap,42.2,-89.1,8.67,72.13,2388,27.3
+370,IL,Springfield Capital Ap,39.85,-89.68,11.76,69.1,2701,30.8
+371,IL,Sterling Rockfalls,41.75,-89.67,10.15,66.41,3031,34.6
+372,IL,Univ Of Illinois Wi  Bondville,40.06,-88.37,11.11,74.9,2282,26.1
+373,IL,Chicago Waukegan,42.42,-87.87,8.85,74.2,2044,23.3
+374,IN,Delaware Co Johnson,40.23,-85.4,11.36,72.66,2710,30.9
+375,IN,Evansville Regional Ap,38.05,-87.53,13.65,69.93,2683,30.6
+376,IN,Fort Wayne Intl Ap,41,-85.2,9.7,71.82,2729,31.2
+377,IN,Grissom Arb,40.65,-86.15,10.45,73.76,2573,29.4
+378,IN,Huntingburg,38.25,-86.95,14.09,69.83,2690,30.7
+379,IN,Indianapolis Intl Ap,39.72,-86.27,11.05,70.99,2555,29.2
+380,IN,Lafayette Purdue Univ Ap,40.42,-86.93,10.82,73.87,2569,29.3
+381,IN,Monroe Co,39.13,-86.62,11.7,77.21,2405,27.5
+382,IN,South Bend Michiana Rgnl Ap,41.7,-86.33,10.69,72.01,2557,29.2
+383,IN,Terre Haute Hulman Regional A,39.45,-87.3,12.38,73.46,2527,28.8
+384,KS,Chanute Martin Johnson Ap,37.67,-95.48,14.2,71.62,1966,22.4
+385,KS,Concordia Blosser Muni Ap,39.55,-97.65,13.26,63.53,2676,30.5
+386,KS,Dodge City Regional Ap,37.77,-99.97,12.63,61.75,2923,33.4
+387,KS,Emporia Municipal Ap,38.33,-96.18,11.76,70.31,2077,23.7
+388,KS,Fort Riley Marshall Aaf,39.05,-96.77,13.88,65.93,2795,31.9
+389,KS,Garden City Municipal Ap,37.93,-100.72,11.99,63.5,2587,29.5
+390,KS,Goodland Renner Field,39.37,-101.7,10.53,61.37,3040,34.7
+391,KS,Great Bend  Awos,38.35,-98.87,12.83,60.54,3140,35.8
+392,KS,Hays Muni  Awos,38.85,-99.27,12.9,58.85,3178,36.3
+393,KS,Hill City Municipal Ap,39.38,-99.83,11.36,62.5,2703,30.9
+394,KS,Hutchinson Municipal Ap,38.07,-97.87,13.63,68.47,2794,31.9
+395,KS,Liberal Muni,37.03,-100.97,12.97,67.53,2645,30.2
+396,KS,Manhattan Rgnl,39.13,-96.67,13.09,68.9,2182,24.9
+397,KS,Newton  Awos,38.05,-97.28,12.71,65.6,2710,30.9
+398,KS,Olathe Johnson Co,38.85,-94.73,13.47,68.57,2619,29.9
+399,KS,Olathe Johnson Co Industrial,38.83,-94.88,12.99,71.73,2503,28.6
+400,KS,Russell Municipal Ap,38.88,-98.82,12.63,64.81,2959,33.8
+401,KS,Salina Municipal Ap,38.82,-97.67,13.84,64.13,2794,31.9
+402,KS,Topeka Forbes Field,38.95,-95.67,12.88,71.92,2398,27.4
+403,KS,Topeka Municipal Ap,39.07,-95.63,12.78,69.11,2631,30
+404,KS,Wichita Col  Jabara,37.75,-97.22,13.25,70.42,2702,30.8
+405,KS,Mcconnell Afb,37.62,-97.27,13.84,65.74,2728,31.1
+406,KS,Wichita Mid Continent Ap,37.65,-97.43,13.91,65.05,2929,33.4
+407,KY,Bowling Green Warren Co Ap,36.98,-86.43,13.95,73.96,2538,29
+408,KY,Cincinnati Northern Ky Ap,39.05,-84.67,11.83,70.39,2762,31.5
+409,KY,Fort Campbell Aaf,36.67,-87.48,14.11,70.02,2369,27
+410,KY,Fort Knox Godman Aaf,37.9,-85.97,12.92,69.22,2720,31.1
+411,KY,Henderson City,37.82,-87.68,12.3,64.58,3278,37.4
+412,KY,Jackson Julian Carroll Ap,37.58,-83.32,13.88,69.1,3188,36.4
+413,KY,Lexington Bluegrass Ap,38.03,-84.6,12.64,71.95,2768,31.6
+414,KY,London Corbin Ap,37.08,-84.08,12.9,74.2,2588,29.5
+415,KY,Louisville Bowman Field,38.23,-85.67,14.32,72.9,2507,28.6
+416,KY,Louisville Standiford Field,38.18,-85.73,13.6,69.21,2536,28.9
+417,KY,Paducah Barkley Regional Ap,37.05,-88.77,14.68,72.97,2798,31.9
+418,KY,Somerset Awos,38,-84.6,14.36,69.62,2863,32.7
+419,LA,England Afb,31.32,-92.55,19.26,74.1,2762,31.5
+420,LA,Alexandria Esler Regional Ap,31.4,-92.3,18.5,79.37,2154,24.6
+421,LA,Barksdale Afb,32.5,-93.67,17.72,70.59,2331,26.6
+422,LA,Baton Rouge Ryan Arpt,30.53,-91.15,19.35,75.46,2339,26.7
+423,LA,Fort Polk Aaf,31.05,-93.18,18.44,74.14,2165,24.7
+424,LA,Houma Terrebonne,29.57,-90.67,19.89,73.14,2116,24.2
+425,LA,Lafayette Regional Ap,30.2,-91.98,19.75,73.9,2276,26
+426,LA,Lake Charles Wb Airp,30.22,-93.17,19.57,73.7,2216,25.3
+427,LA,Lake Charles Regional Arpt,30.12,-93.23,19.5,78.95,2278,26
+428,LA,Monroe Regional Ap,32.52,-92.03,18.17,74.07,2476,28.3
+429,LA,New Iberia Naas,30.03,-91.88,19.36,78.13,2544,29
+430,LA,New Orleans Intl Arpt,30,-90.25,20.44,75.56,2622,29.9
+431,LA,New Orleans Alvin Callender F,29.82,-90.02,20.29,76.65,2752,31.4
+432,LA,New Orleans Lakefront Ap,30.05,-90.03,20.93,74.12,2684,30.6
+433,LA,Patterson Memorial,29.72,-91.33,19.84,69.62,2998,34.2
+434,LA,Shreveport Downtown,32.53,-93.75,18.03,69.77,2390,27.3
+435,LA,Shreveport Regional Arpt,32.45,-93.82,18.2,71.96,2525,28.8
+436,MA,Barnstable Muni Boa,41.67,-70.28,10.46,76.28,2552,29.1
+437,MA,Beverly Muni,42.58,-70.92,9.05,68.25,2732,31.2
+438,MA,Boston Logan IntL Arpt,42.37,-71.02,10.6,65.68,2745,31.3
+439,MA,Chicopee Falls Westo,42.2,-72.53,9.67,70.98,2352,26.8
+440,MA,Lawrence Muni,42.72,-71.12,10.16,69.52,2783,31.8
+441,MA,Marthas Vineyard,41.4,-70.62,10.64,75.7,2391,27.3
+442,MA,Nantucket Memorial Ap,41.25,-70.07,10.77,78.56,2468,28.2
+443,MA,New Bedford Rgnl,41.67,-70.95,10.76,70.49,2802,32
+444,MA,North Adams,42.7,-73.17,8.83,72.25,2809,32.1
+445,MA,Norwood Memorial,42.18,-71.18,10.03,72.11,2302,26.3
+446,MA,Otis Angb,41.65,-70.52,10.09,75.32,2169,24.8
+447,MA,Plymouth Municipal,41.92,-70.73,10.16,77.26,2797,31.9
+448,MA,Provincetown  Awos,42.07,-70.22,10.51,70.74,2553,29.1
+449,MA,Westfield Barnes Muni Ap,42.15,-72.72,9.15,71.01,2548,29.1
+450,MA,Worchester Regional Arpt,42.27,-71.88,8.01,67.03,2782,31.8
+451,MD,Andrews Afb,38.82,-76.87,13.02,66.51,2582,29.5
+452,MD,Baltimore Blt Washngtn IntL,39.17,-76.68,13.21,64.64,2754,31.4
+453,MD,Hagerstown Rgnl Ric,39.7,-77.73,12.56,64.62,2839,32.4
+454,MD,Patuxent River Nas,38.3,-76.42,15.16,74.87,2666,30.4
+455,MD,Salisbury Wicomico Co Ap,38.33,-75.52,14.47,72.6,2868,32.7
+456,ME,Auburn Lewiston,44.05,-70.28,7.24,67.03,2062,23.5
+457,ME,Augusta Airport,44.32,-69.8,7.42,70.51,2547,29.1
+458,ME,Bangor International Ap,44.8,-68.82,7.47,66.43,2312,26.4
+459,ME,Bar Harbor  Awos,44.45,-68.37,6.43,71.2,2347,26.8
+460,ME,Naval Air Station,43.9,-69.93,7.74,70.63,2299,26.2
+461,ME,Caribou Municipal Arpt,46.87,-68.03,3.89,72.69,1968,22.5
+462,ME,Northern Aroostook,47.28,-68.32,3.83,72.76,2026,23.1
+463,ME,Houlton Intl Arpt,46.12,-67.8,4.92,74.62,2365,27
+464,ME,Millinocket Municipal Ap,45.65,-68.68,7.01,70.2,2552,29.1
+465,ME,Portland Intl Jetport,43.65,-70.3,7.35,70,2198,25.1
+466,ME,Presque Isle Municip,46.68,-68.05,4.79,68.94,2137,24.4
+467,ME,Rockland Knox Awos,44.07,-69.1,7.52,68.73,2598,29.7
+468,ME,Sanford Muni  Awos,43.4,-70.72,7.25,65.06,2131,24.3
+469,ME,Waterville  Awos,44.53,-69.68,6.92,64.53,2193,25
+470,ME,Wiscasset,43.97,-69.72,8.56,75.88,2337,26.7
+471,MI,Alpena County Regional Ap,45.07,-83.58,6.48,74.27,2286,26.1
+472,MI,Ann Arbor Municipal,42.22,-83.75,9.58,74.56,2323,26.5
+473,MI,Battle Creek Kellogg Ap,42.3,-85.25,9.9,72,2712,31
+474,MI,Benton Harbor Ross,42.13,-86.43,9.83,74.4,2269,25.9
+475,MI,Cadillac Wexford Co Ap,44.28,-85.42,7.29,72.85,2236,25.5
+476,MI,Chippewa Co Intl,46.25,-84.47,4.63,73.96,2085,23.8
+477,MI,Detroit Metropolitan Arpt,42.22,-83.35,9.36,71.31,2590,29.6
+478,MI,Detroit City Airport,42.4,-83,10.23,65.54,2757,31.5
+479,MI,Detroit Willow Run Ap,42.23,-83.53,9.75,71.75,2530,28.9
+480,MI,Escanaba  Awos,45.75,-87.03,5.49,72.29,2046,23.4
+481,MI,Flint Bishop Intl Arpt,42.97,-83.75,8.68,71.77,2671,30.5
+482,MI,Grand Rapids Kent County Int,42.88,-85.52,8.82,72.88,2604,29.7
+483,MI,Hancock Houghton Co Ap,47.17,-88.5,5.05,77.11,2247,25.7
+484,MI,Houghton Lake Roscommon Co Ar,44.37,-84.68,6.82,72.77,2271,25.9
+485,MI,Howell,42.63,-83.98,10.19,70.55,2257,25.8
+486,MI,Iron Mountain Ford,45.82,-88.12,6.64,71.87,2423,27.7
+487,MI,Ironwood  Awos,46.53,-90.13,5.47,66.71,2285,26.1
+488,MI,Jackson Reynolds Field,42.27,-84.47,9.85,72.69,2587,29.5
+489,MI,Kalamazoo Battle Cr,42.23,-85.55,9.89,71.86,2841,32.4
+490,MI,Lansing Capital City Arpt,42.78,-84.58,8.74,74.95,2472,28.2
+491,MI,Manistee  Awos,44.27,-86.25,8.29,71.86,2205,25.2
+492,MI,Menominee  Awos,45.13,-87.63,7.42,64.72,2620,29.9
+493,MI,Mount Clemens Selfridge Fld,42.62,-82.83,10.14,72.42,2492,28.4
+494,MI,Muskegon County Arpt,43.17,-86.23,8.62,72.85,2300,26.3
+495,MI,Oakland Co Intl,42.67,-83.42,10.22,72.96,2753,31.4
+496,MI,Oscoda Wurtsmith Afb,44.45,-83.4,8.26,71.82,2369,27
+497,MI,Pellston Emmet County Ap,45.57,-84.78,7.95,74.9,2204,25.2
+498,WI,Rhinelander Oneida,45.63,-89.47,5.81,73.49,2447,27.9
+499,MI,Saginaw Tri City Intl Ap,43.53,-84.08,8.38,72.05,2421,27.6
+500,MI,Sault Ste Marie Sanderson Fie,46.47,-84.35,4.6,76.51,2139,24.4
+501,MI,St Clair County Int,42.92,-82.53,9.69,73.69,2244,25.6
+502,MI,Traverse City Cherry Capital,44.73,-85.58,7.38,71.34,2528,28.9
+503,MN,Aitkin Ndb Awos,46.55,-93.68,4.83,76.29,1984,22.6
+504,MN,Albert Lea  Awos,43.68,-93.37,8.89,73.24,1854,21.2
+505,MN,Alexandria Municipal Ap,45.88,-95.4,5.69,72.53,2519,28.8
+506,MN,Austin Muni,43.67,-92.93,7.27,75.86,2298,26.2
+507,MN,Baudette International Ap,48.72,-94.6,5.29,74.01,2678,30.6
+508,MN,Bemidji Municipal,47.5,-94.93,5.19,64.54,2789,31.8
+509,MN,Benson Muni,45.32,-95.65,6.39,77.2,1803,20.6
+510,MN,Brainerd Wieland,46.4,-94.13,5.74,72.81,2493,28.5
+511,MN,Cambridge Muni,45.57,-93.27,5.82,72.69,2413,27.5
+512,MN,Cloquet  Awos,46.7,-92.5,4.6,79.82,1737,19.8
+513,MN,Crane Lake  Awos,46.27,-92.57,3.37,71.54,2083,23.8
+514,MN,Crookston Muni Fld,47.85,-96.62,5.29,73.23,2424,27.7
+515,MN,Detroit Lakes Awos,46.83,-95.88,5.96,73.35,2421,27.6
+516,MN,Duluth International Arpt,46.83,-92.22,4.02,71.56,2333,26.6
+517,MN,Flying Cloud,44.82,-93.45,7.84,68.59,2326,26.6
+518,MN,Ely Muni,47.82,-91.83,4.57,71.73,2544,29
+519,MN,Eveleth Muni  Awos,47.4,-92.5,3.88,72.81,1904,21.7
+520,MN,Fairmont Muni Awos,43.65,-94.42,7.8,69.36,2254,25.7
+521,MN,Faribault Muni Awos,44.33,-93.32,7.85,72.65,2287,26.1
+522,MN,Fergus Falls Awos,46.28,-96.15,7.33,74.77,2196,25.1
+523,MN,Fosston Awos,47.58,-95.77,4.11,70.06,2331,26.6
+524,MN,Glenwood  Asos,45.65,-95.32,6.46,75.39,2293,26.2
+525,MN,Grand Rapids Awos,47.22,-93.52,5.08,65,2607,29.8
+526,MN,Hallock,48.78,-96.95,4.93,73.33,2144,24.5
+527,MN,Hibbing Chisholm Hibbing Ap,47.38,-92.85,3.79,73.19,2119,24.2
+528,MN,Hutchinson  Awos,44.87,-94.38,6.71,75.78,1986,22.7
+529,MN,International Falls Intl Ap,48.57,-93.4,3.36,70.78,2241,25.6
+530,MN,Litchfield Muni,45.1,-94.5,7.44,72.07,3141,35.9
+531,MN,Little Falls  Awos,45.95,-94.35,5.1,73.84,2136,24.4
+532,MN,Mankato Awos,44.22,-93.92,7.67,69.22,2552,29.1
+533,MN,Marshall Ryan Awos,44.45,-95.82,7.68,67.67,2263,25.8
+534,MN,Minneapolis Crystal,45.07,-93.35,6.66,67.32,2457,28
+535,MN,Minneapolis St Paul IntL Arp,44.88,-93.23,7.73,65.72,2468,28.2
+536,MN,Mora Muni  Awos,45.88,-93.27,5.92,70.7,2451,28
+537,MN,Morris Muni  Awos,45.57,-95.97,5.52,79.34,1927,22
+538,MN,New Ulm Muni  Awos,44.32,-94.5,7.77,74.18,2206,25.2
+539,MN,Orr,48.02,-92.87,2.87,70.3,2093,23.9
+540,MN,Owatonna  Awos,44.12,-93.25,7.71,74.31,2386,27.2
+541,MN,Park Rapids Municipal Ap,46.9,-95.07,4.93,73.71,2370,27.1
+542,MN,Pipestone  Awos,43.98,-96.32,6.24,74.68,2181,24.9
+543,MN,Red Wing,44.58,-92.48,7.75,73.53,2170,24.8
+544,MN,Redwood Falls Muni,44.55,-95.08,7.16,74.3,2361,27
+545,MN,Rochester International Arpt,43.9,-92.5,6.46,73.89,2400,27.4
+546,MN,Roseau Muni  Awos,48.85,-95.7,3.82,81.72,1996,22.8
+547,MN,Silver Bay,47.2,-91.4,2.98,69.49,1966,22.4
+548,MN,South St Paul Muni,44.85,-93.15,7.31,74.44,2117,24.2
+549,MN,St Cloud Regional Arpt,45.55,-94.05,5.49,71.8,2485,28.4
+550,MN,St Paul Downtown Ap,44.93,-93.05,7.14,72.11,2487,28.4
+551,MN,Thief River Awos,48.07,-96.18,4.86,69.24,2404,27.4
+552,MN,Two Harbors,47.05,-91.75,4.67,76.29,1982,22.6
+553,MN,Wheaton Ndb  Awos,45.7,-96.5,6.04,71.36,2415,27.6
+554,MN,Willmar,45.12,-95.08,7.75,72.37,2334,26.6
+555,MN,Winona Muni  Awos,44.08,-91.7,7.64,72.44,2436,27.8
+556,MN,Worthington  Awos,43.65,-95.58,7.44,67.58,2611,29.8
+557,MO,Cape Girardeau Municipal Ap,37.23,-89.57,13.49,73.18,2550,29.1
+558,MO,Columbia Regional Airport,38.82,-92.22,12.08,70.24,2764,31.6
+559,MO,Farmington,37.77,-90.4,13.24,67.32,2998,34.2
+560,MO,Ft Lnrd Wd Aaf,37.75,-92.15,13.54,67.29,2638,30.1
+561,MO,Jefferson City Mem,38.58,-92.15,13.73,72.75,2388,27.3
+562,MO,Joplin Municipal Ap,37.15,-94.5,15.64,68.6,2633,30.1
+563,MO,Kaiser Mem  Awos,38.1,-92.55,13.61,69.9,2435,27.8
+564,MO,Kansas City Downtown Ap,39.12,-94.6,14.71,69.3,2206,25.2
+565,MO,Kansas City IntL Arpt,39.3,-94.72,12.06,67.82,2632,30
+566,MO,Kirksville Regional Ap,40.1,-92.55,10.21,73.85,2456,28
+567,MO,Poplar Bluff Amos,36.77,-90.47,14.47,74.36,2543,29
+568,MO,Vichy Rolla Natl Arpt,38.13,-91.77,12.41,74.5,2829,32.3
+569,MO,Springfield Regional Arpt,37.23,-93.38,13.18,69.25,2983,34.1
+570,MO,St Joseph Rosecrans Memorial,39.77,-94.9,11.97,69.2,2055,23.5
+571,MO,St Louis Lambert IntL Arpt,38.75,-90.37,13.41,65.93,2874,32.8
+572,MO,St Louis Spirit Of St Louis A,38.65,-90.65,13.81,69.52,2805,32
+573,MO,Whiteman Afb,38.72,-93.55,12.99,66.62,2591,29.6
+574,MS,Keesler Afb,30.42,-88.92,19.47,73.77,2342,26.7
+575,MS,Columbus Afb,33.65,-88.45,16.13,71.37,2101,24
+576,MS,Golden Tri Awos,33.45,-88.58,15.99,68.91,2155,24.6
+577,MS,Greenville Municipal,33.48,-90.98,18.26,70.54,2732,31.2
+578,MS,Greenwood Leflore Arpt,33.5,-90.08,17.56,72.15,2718,31
+579,MS,Gulfport Biloxi Int,30.4,-89.07,19.7,78.19,2252,25.7
+580,MS,Hattiesburg Laurel,31.47,-89.33,17.55,71.15,2856,32.6
+581,MS,Jackson International Ap,32.32,-90.08,17.73,73.69,2478,28.3
+582,MS,Mccomb Pike County Ap,31.23,-90.47,18.33,76.66,2291,26.2
+583,MS,Meridian Naas,32.55,-88.57,17.83,75.12,2416,27.6
+584,MS,Meridian Key Field,32.33,-88.75,17.43,73.13,2375,27.1
+585,MS,Natchez Hardy Awos,31.62,-91.3,18.37,73.2,3145,35.9
+586,MS,Tupelo C D Lemons Arpt,34.27,-88.77,16.55,72.58,2640,30.1
+587,MT,Billings Logan IntL Arpt,45.8,-108.55,8.87,53.54,3029,34.6
+588,MT,Bozeman Gallatin Field,45.8,-111.15,6.18,64.83,2144,24.5
+589,MT,Butte Bert Mooney Arpt,45.95,-112.5,4.8,61.94,1789,20.4
+590,MT,Cut Bank Muni Ap,48.6,-112.37,6.25,57.43,2250,25.7
+591,MT,Glasgow Intl Arpt,48.22,-106.62,6.74,62.09,2752,31.4
+592,MT,Glendive Awos,47.13,-104.8,6.04,63.3,2342,26.7
+593,MT,Great Falls Intl Arpt,47.47,-111.38,7.07,53.83,2585,29.5
+594,MT,Havre City County Ap,48.55,-109.77,6.72,61.41,2388,27.3
+595,MT,Helena Regional Airport,46.6,-111.97,7.16,57.93,2583,29.5
+596,MT,Kalispell Glacier Pk IntL Ar,48.32,-114.25,6.57,69.13,2187,25
+597,MT,Lewistown Municipal Arpt,47.05,-109.45,6.41,63.85,2227,25.4
+598,MT,Livingston Mission Field,45.7,-110.45,8.28,54.05,2268,25.9
+599,MT,Miles City Municipal Arpt,46.43,-105.88,7.84,56.31,2903,33.1
+600,MT,Missoula International Ap,46.92,-114.1,7.52,67.05,2304,26.3
+601,MT,Sidney Richland,47.7,-104.2,4.73,63.31,2319,26.5
+602,MT,Wolf Point Intl  Fort Peck   S,48.31,-105.1,5.16,69.34,2404,27.4
+603,NC,Asheville Regional Arpt,35.43,-82.53,12.79,73.74,2753,31.4
+604,NC,Cape Hatteras Nws Bldg,35.27,-75.55,17.18,75.93,2904,33.2
+605,NC,Charlotte Douglas Intl Arpt,35.22,-80.95,15.99,66.35,2897,33.1
+606,NC,Cherry Point Mcas,34.9,-76.88,15.71,71.13,2672,30.5
+607,NC,Elizabeth City Coast Guard Ai,36.3,-76.25,16.87,74.15,2676,30.5
+608,NC,Fayetteville Rgnl G,34.98,-78.88,15.24,67.33,2633,30.1
+609,NC,Fayetteville Pope Afb,35.17,-79.02,15.85,65.66,2762,31.5
+610,NC,Fort Bragg Simmons Aaf,35.13,-78.93,16.22,67.24,2988,34.1
+611,NC,Goldsboro Seymour Johnson Afb,35.35,-77.97,15.43,68.01,2608,29.8
+612,NC,Greensboro Piedmont Triad Int,36.1,-79.95,14.42,69.52,2677,30.6
+613,NC,Hickory Regional Ap,35.73,-81.38,15.15,66.37,2754,31.4
+614,NC,Jacksonville  Awos,34.83,-77.62,14.82,67.57,2550,29.1
+615,NC,Kinston Stallings Afb,35.32,-77.63,15.85,69.15,2493,28.5
+616,NC,Dare Co Rgnl,35.92,-75.7,16.08,72.92,2942,33.6
+617,NC,New Bern Craven Co Regl Ap,35.07,-77.05,17.46,76.2,2867,32.7
+618,NC,New River Mcaf,34.7,-77.38,16.72,72.33,2827,32.3
+619,NC,Pitt Greenville Arp,35.63,-77.4,15.98,65.77,3255,37.2
+620,NC,Raleigh Durham International,35.87,-78.78,15.29,71.09,2652,30.3
+621,NC,Rocky Mount Wilson,35.85,-77.9,15.9,69.15,3363,38.4
+622,NC,Southern Pines Awos,35.23,-79.4,15.11,60.23,3399,38.8
+623,NC,Wilmington International Arpt,34.27,-77.9,17.42,74.6,2727,31.1
+624,NC,Winston Salem Reynolds Ap,36.13,-80.22,15.34,68.1,3276,37.4
+625,ND,Bismarck Municipal Arpt  Isis,46.77,-100.77,6.29,67.67,2649,30.2
+626,ND,Devils Lake Awos,48.12,-98.92,4.82,66.28,2915,33.3
+627,ND,Dickinson Municipal Ap,46.8,-102.8,5.32,67.75,2322,26.5
+628,ND,Fargo Hector International Ap,46.93,-96.82,5.26,68.38,2639,30.1
+629,ND,Grand Forks Af,47.97,-97.4,5.5,78.92,2115,24.1
+630,ND,Grand Forks International Ap,47.95,-97.18,4.77,70.94,2298,26.2
+631,ND,Jamestown Municipal Arpt,46.92,-98.68,4.66,76.43,2083,23.8
+632,ND,Minot Afb,48.42,-101.35,5.47,76.27,2373,27.1
+633,ND,Minot Faa Ap,48.27,-101.28,5.43,66.88,2722,31.1
+634,ND,Williston Sloulin Intl Ap,48.2,-103.65,6.08,67.48,2499,28.5
+635,NE,Ainsworth Municipal,42.58,-100,9.99,64.65,2805,32
+636,NE,Alliance Municipal,42.05,-102.8,8.83,61.71,2657,30.3
+637,NE,Beatrice Municipal,40.3,-96.75,11.41,68.9,2723,31.1
+638,NE,Bellevue Offutt Afb,41.12,-95.92,10.47,72.32,2165,24.7
+639,NE,Broken Bow Muni,41.43,-99.65,8.96,68.19,2396,27.4
+640,NE,Chadron Municipal Ap,42.83,-103.08,9.45,60.19,2742,31.3
+641,NE,Columbus Muni,41.45,-97.33,9.69,69.21,2465,28.1
+642,NE,Falls City Brenner,40.08,-95.6,11.09,69.9,2492,28.4
+643,NE,Fremont Muni Arpt,41.45,-96.52,9.22,68.97,2682,30.6
+644,NE,Grand Island Central Ne Regio,40.97,-98.32,9.68,64.74,2731,31.2
+645,NE,Hastings Municipal,40.6,-98.43,10.61,67.05,2749,31.4
+646,NE,Brewster Field Arpt,40.45,-99.33,9.49,70.78,2376,27.1
+647,NE,Imperial Faa Ap,40.52,-101.62,10.59,61.32,2948,33.7
+648,NE,Kearney Muni  Awos,40.73,-99,9.78,65.71,2570,29.3
+649,NE,Lincoln Municipal Arpt,40.83,-96.77,11.24,68.82,2406,27.5
+650,NE,Mccook Municipal,40.2,-100.58,11.35,63.15,2814,32.1
+651,NE,Norfolk Karl Stefan Mem Arpt,41.98,-97.43,9.23,65.23,2581,29.5
+652,NE,North Platte Regional Ap,41.12,-100.67,9.37,65.23,2646,30.2
+653,NE,Omaha Wsfo,41.37,-96.02,10.58,65.66,2552,29.1
+654,NE,Omaha Eppley Airfield,41.32,-95.9,11.13,71.73,2006,22.9
+655,NE,O Neill Baker Field,42.47,-98.68,7.8,67.52,2620,29.9
+656,NE,Ord Sharp Field,41.62,-98.95,9.91,67.23,2618,29.9
+657,NE,Scottsbluff W B Heilig Field,41.87,-103.6,9.28,58.42,2937,33.5
+658,NE,Sidney Municipal Ap,41.1,-102.98,8.54,61.65,2683,30.6
+659,NE,Tekamah  Asos,41.77,-96.17,9.74,74.5,2271,25.9
+660,NE,Valentine Miller Field,42.87,-100.55,9.68,63.14,2825,32.2
+661,NH,Berlin Municipal,44.58,-71.18,5.32,74.36,2070,23.6
+662,NH,Concord Municipal Arpt,43.2,-71.5,7.95,69.25,2531,28.9
+663,NH,Dillant Hopkins,42.9,-72.27,8.2,66.42,2586,29.5
+664,NH,Laconia Muni  Awos,43.57,-71.42,8.21,65.53,2607,29.8
+665,NH,Lebanon Municipal,43.63,-72.3,7.71,70.35,2288,26.1
+666,NH,Manchester Airport,42.93,-71.43,9.78,67.19,2465,28.1
+667,NH,Mount Washington,44.27,-71.3,-1.81,85.74,196,2.2
+668,NH,Pease Intl Tradepor,43.08,-70.82,8.95,70.13,2468,28.2
+669,NJ,Atlantic City Intl Ap,39.45,-74.57,12.07,71.86,2667,30.4
+670,NJ,Belmar Asc,40.18,-74.07,11.66,61.34,3055,34.9
+671,NJ,Caldwell Essex Co,40.88,-74.28,11.73,66.06,3123,35.7
+672,NJ,Cape May Co,39,-74.92,13.48,66.6,3102,35.4
+673,NJ,Mcguire Afb,40.02,-74.6,12.31,68.93,2742,31.3
+674,NJ,Millville Municipal Ap,39.37,-75.08,12.83,72.65,2285,26.1
+675,NJ,Newark International Arpt,40.72,-74.18,12.51,64.62,2966,33.9
+676,NJ,Teterboro Airport,40.85,-74.07,12.12,64.34,3249,37.1
+677,NJ,Trenton Mercer County Ap,40.28,-74.82,12.57,67.53,2769,31.6
+678,NM,Albuquerque Intl Arpt  Isis,35.04,-106.62,13.68,42.4,4022,45.9
+679,NM,Carlsbad Cavern City Air Term,32.33,-104.27,17.43,48.9,3667,41.9
+680,NM,Clayton Municipal Airpark,36.45,-103.15,12.7,49.87,3598,41.1
+681,NM,Clovis Muni   Awos,34.43,-103.08,13.42,52.36,3541,40.4
+682,NM,Clovis Cannon Afb,34.38,-103.32,13.61,55.49,3365,38.4
+683,NM,Deming Muni,32.25,-107.72,17.01,36.86,4311,49.2
+684,NM,Farmington Four Corners Regl,36.75,-108.23,11.82,47.21,3187,36.4
+685,NM,Gallup Sen Clarke Fld,35.52,-108.78,9.8,51.44,3267,37.3
+686,NM,Holloman Afb,32.85,-106.1,16.23,43.54,4163,47.5
+687,NM,Las Cruces Intl,32.28,-106.92,17.35,39.24,4529,51.7
+688,NM,Las Vegas Municipal Arpt,35.65,-105.15,10.81,47.04,3553,40.6
+689,NM,Roswell Industrial Air Park,33.3,-104.53,16.94,43.76,4237,48.4
+690,NM,Sierra Blanca Rgnl,33.47,-105.53,12.85,45.71,4300,49.1
+691,NM,Sata Fe County Municipal Ap,35.62,-106.08,10.82,49.58,3478,39.7
+692,NM,Taos Muni Apt Awos,36.45,-105.67,8.2,45.78,2827,32.3
+693,NM,Truth Or Consequences Muni Ap,33.23,-107.27,16.2,37.1,4440,50.7
+694,NM,Tucumcari Faa Ap,35.18,-103.6,13.8,55.77,3829,43.7
+695,NV,Elko Municipal Arpt,40.83,-115.8,8.33,52.04,2309,26.4
+696,NV,Ely Yelland Field,39.3,-114.85,7.5,50.17,2302,26.3
+697,NV,Fallon Naas,39.42,-118.72,12.19,42.66,3207,36.6
+698,NV,Las Vegas Mccarran Intl Ap,36.08,-115.15,19.84,29.6,4295,49
+699,NV,Lovelock Derby Field,40.07,-118.55,11.93,45.03,3145,35.9
+700,NV,Mercury Desert Rock Ap  Surfra,36.63,-116.02,17.71,32.65,3858,44
+701,NV,Nellis Afb,36.25,-115.03,20.75,33.39,4087,46.7
+702,NV,Reno Tahoe International Ap,39.48,-119.77,11.07,48.53,2975,34
+703,NV,Tonopah Airport,38.07,-117.08,11.17,42.27,2952,33.7
+704,NV,Winnemucca Municipal Arpt,40.9,-117.8,10.25,47.51,2608,29.8
+705,NY,Albany County Ap,42.75,-73.8,8.99,69.59,2744,31.3
+706,NY,Binghamton Edwin A Link Field,42.2,-75.98,8.28,70.49,2767,31.6
+707,NY,Buffalo Niagara Intl Ap,42.93,-78.73,9.05,70.88,2759,31.5
+708,NY,Elmira Corning Regional Ap,42.17,-76.9,8.98,74,2521,28.8
+709,NY,Fort Drum Wheeler S,44.05,-75.72,7.66,77.08,2339,26.7
+710,NY,Glens Falls Ap,43.35,-73.62,8.35,72.8,2261,25.8
+711,NY,Islip Long Isl Macarthur Ap,40.78,-73.1,12.23,70.67,2447,27.9
+712,NY,Jamestown  Awos,42.15,-79.27,7.8,72.1,2509,28.6
+713,NY,Massena Ap,44.93,-74.85,7.03,72.27,2469,28.2
+714,NY,Monticello Awos,41.7,-74.8,8.29,69.38,2579,29.4
+715,NY,New York Central Prk Obs Belv,40.78,-73.97,12.48,64.86,2776,31.7
+716,NY,New York J F Kennedy IntL Ar,40.65,-73.8,12.55,68.54,2553,29.1
+717,NY,New York Laguardia Arpt,40.78,-73.88,13.59,60.78,2901,33.1
+718,NY,Stewart Field,41.5,-74.1,10.2,67.15,2574,29.4
+719,NY,Niagara Falls Af,43.1,-78.95,9.54,72.51,2711,30.9
+720,NY,Poughkeepsie Dutchess Co Ap,41.63,-73.88,10.27,73.05,2615,29.9
+721,NY,Republic,40.72,-73.42,12.44,67.11,2746,31.3
+722,NY,Rochester Greater Rochester I,43.12,-77.68,9.43,74.37,2553,29.1
+723,NY,Adirondack Rgnl,44.38,-74.2,5.24,75.81,2154,24.6
+724,NY,Syracuse Hancock IntL Arpt,43.12,-76.1,9.22,72.67,2618,29.9
+725,NY,Utica Oneida County Ap,43.15,-75.38,8.42,75.42,2574,29.4
+726,NY,Watertown Ap,44,-76.02,7.93,74.86,2505,28.6
+727,NY,Westhampton Gabreski Ap,40.85,-72.63,10.89,74.77,2555,29.2
+728,NY,White Plains Westchester Co A,41.07,-73.72,10.47,67.63,2767,31.6
+729,OH,Akron Akron Canton Reg Ap,40.92,-81.43,9.8,71.4,2574,29.4
+730,OH,Cincinnati Municipal Ap Lunki,39.1,-84.42,12.3,73.91,2466,28.2
+731,OH,Burke Lakefront,41.52,-81.68,10.29,71.38,2738,31.3
+732,OH,Cleveland Hopkins Intl Ap,41.4,-81.85,10.34,70.03,2813,32.1
+733,OH,Columbus Port Columbus Intl A,39.98,-82.88,11.06,70.41,2908,33.2
+734,OH,Dayton International Airport,39.9,-84.22,10.72,71.22,2448,27.9
+735,OH,Dayton Wright Patterson Afb,39.83,-84.05,10.88,71,2649,30.2
+736,OH,Findlay Airport,41.02,-83.67,10.74,71.26,3073,35.1
+737,OH,Mansfield Lahm Municipal Arpt,40.82,-82.52,9.29,73.45,2362,27
+738,OH,Ohio State Universi,40.07,-83.07,12.06,71.34,2426,27.7
+739,OH,Toledo Express Airport,41.58,-83.8,9.47,71.64,2548,29.1
+740,OH,Youngstown Regional Airport,41.25,-80.67,9.19,73.48,2306,26.3
+741,OH,Zanesville Municipal Ap,39.95,-81.9,11.94,73.99,2777,31.7
+742,OK,Altus Afb,34.65,-99.27,17.27,57,2970,33.9
+743,OK,Bartlesville Philli,36.77,-96.02,14.33,65.9,2743,31.3
+744,OK,Clinton Sherman,35.33,-99.2,14.84,65.91,2711,30.9
+745,OK,Fort Sill Post Field Af,34.65,-98.4,16.68,59.21,2915,33.3
+746,OK,Gage Airport,36.3,-99.77,14.95,59.75,2994,34.2
+747,OK,Hobart Municipal Ap,35,-99.05,16.27,63.76,2939,33.6
+748,OK,Lawton Municipal,34.57,-98.42,16.59,69.15,2810,32.1
+749,OK,Mcalester Municipal Ap,34.9,-95.78,16.78,68.88,2577,29.4
+750,OK,Oklahoma City Tinker Afb,35.42,-97.38,15.34,66.39,2289,26.1
+751,OK,Oklahoma City Wiley,35.53,-97.65,15.32,64.88,2554,29.2
+752,OK,Oklahoma City Will Rogers Wor,35.38,-97.6,15.79,65.07,2722,31.1
+753,OK,Ponca City Municipal Ap  Sgp,36.61,-97.49,16.19,63.81,2588,29.5
+754,OK,Stillwater Rgnl,36.15,-97.08,15.75,68.78,2477,28.3
+755,OK,Tulsa International Airport,36.2,-95.88,15.61,65.04,2504,28.6
+756,OK,Vance Afb,36.33,-97.92,14.5,63.12,2402,27.4
+757,OR,Astoria Regional Airport,46.15,-123.88,10.83,82.02,3151,36
+758,OR,Aurora State,45.25,-122.77,12.15,75.1,3399,38.8
+759,OR,Baker Municipal Ap,44.83,-117.82,7.86,64.18,2187,25
+760,OR,Burns Municipal Arpt  Uo,43.52,-119.02,7.67,60.3,2116,24.2
+761,OR,Corvallis Muni,44.48,-123.28,12.34,68.96,3358,38.3
+762,OR,Eugene Mahlon Sweet Arpt  Uo,44.05,-123.07,11.24,78.47,3140,35.8
+763,OR,Klamath Falls Intl Ap  Uo,42.22,-121.74,8.26,68.11,2250,25.7
+764,OR,La Grande Muni Ap,45.28,-118,9.59,59.69,2526,28.8
+765,OR,Lakeview  Awos,42.17,-120.4,7.87,59.28,2139,24.4
+766,OR,Medford Rogue Valley Intl Ap,42.19,-122.7,11.96,67.3,3190,36.4
+767,OR,North Bend Muni Airport,43.42,-124.25,11.22,80.94,3317,37.9
+768,OR,Pendleton E Or Regional Ap,45.7,-118.83,11.22,60,3238,37
+769,OR,Portland International Ap,45.6,-122.62,12.24,75.1,3811,43.5
+770,OR,Portland Hillsboro,45.53,-122.95,11.39,76.79,3083,35.2
+771,OR,Portland Troutdale,45.55,-122.4,12.14,70.26,3394,38.7
+772,OR,Redmond Roberts Field,44.25,-121.17,8.75,59.67,2275,26
+773,OR,Roseburg Regional Ap,43.23,-123.35,12.73,73.44,3731,42.6
+774,OR,Salem Mcnary Field,44.9,-123,11.73,75.09,3406,38.9
+775,OR,Sexton Summit,42.6,-123.37,10.04,64.24,2906,33.2
+776,PA,Allentown Lehigh Valley Intl,40.65,-75.45,10.96,66.88,2776,31.7
+777,PA,Altoona Blair Co Arpt,40.3,-78.32,10.25,72.24,2733,31.2
+778,PA,Bradford Regional Ap,41.8,-78.63,6.38,75.15,2392,27.3
+779,PA,Butler Co   Awos,40.78,-79.95,9.24,70.63,2660,30.4
+780,PA,Dubois Faa Ap,41.18,-78.9,8.33,71.42,2787,31.8
+781,PA,Erie International Ap,42.08,-80.18,9.48,70.39,2759,31.5
+782,PA,Franklin,41.38,-79.87,8.55,70.14,2804,32
+783,PA,Middletown Harrisburg Intl Ap,40.2,-76.77,10.82,70.94,2332,26.6
+784,PA,Harrisburg Capital City Arpt,40.22,-76.85,11.53,67.88,2671,30.5
+785,PA,Johnstown Cambria County Ap,40.32,-78.83,8.92,72.87,2690,30.7
+786,PA,Lancaster,40.12,-76.3,12.25,68.85,3136,35.8
+787,PA,Philadelphia International Ap,39.87,-75.23,12.75,65.98,2883,32.9
+788,PA,Philadelphia Ne Philadelphia,40.08,-75.02,12.91,66.66,2823,32.2
+789,PA,Pittsburgh International Ap,40.5,-80.23,10.58,66.62,2801,32
+790,PA,Pittsburgh Allegheny Co Ap,40.35,-79.92,11.24,71.29,2949,33.7
+791,PA,Reading Spaatz Field,40.37,-75.97,12.08,69.34,2800,32
+792,PA,State College  Penn State   Su,40.72,-77.93,9.85,64.6,2627,30
+793,PA,Washington  Awos,40.13,-80.28,10.55,69.61,2667,30.4
+794,PA,Wilkes Barre Scranton Intl Ap,41.33,-75.73,9.9,67.42,2676,30.5
+795,PA,Williamsport Regional Ap,41.25,-76.92,10.7,70.66,2681,30.6
+796,PA,Willow Grove Nas,40.2,-75.15,12.59,67.79,3007,34.3
+797,RI,Block Island State Arpt,41.17,-71.58,10.99,71.42,2465,28.1
+798,RI,Pawtucket  Awos,41.92,-71.5,9.29,67.19,2633,30.1
+799,RI,Providence T F Green State Ar,41.72,-71.43,10.52,68.42,2507,28.6
+800,SC,Anderson County Ap,34.5,-82.72,15.35,68.77,2632,30
+801,SC,Beaufort Mcas,32.48,-80.72,18.18,72.12,3025,34.5
+802,SC,Charleston Intl Arpt,32.9,-80.03,18.49,73.63,2608,29.8
+803,SC,Columbia Metro Arpt,33.95,-81.12,17.29,70.45,2758,31.5
+804,SC,Florence Regional Ap,34.18,-79.73,17.88,71.86,2798,31.9
+805,SC,Greenville Downtown Ap,34.85,-82.35,14.78,66.27,2766,31.6
+806,SC,Greer GreenvL Spartanbrg Ap,34.9,-82.22,15.63,67.88,2839,32.4
+807,SC,Myrtle Beach Afb,33.68,-78.93,17.55,71.02,3178,36.3
+808,SC,North Myrtle Beach Grand Stra,33.82,-78.72,17.27,75.06,3036,34.7
+809,SC,Sumter Shaw Afb,33.97,-80.47,16.05,67.89,2887,33
+810,SD,Aberdeen Regional Arpt,45.45,-98.42,7.27,72.51,2617,29.9
+811,SD,Brookings  Awos,44.3,-96.82,7.11,67.29,2799,32
+812,SD,Ellsworth Afb,44.15,-103.1,7.67,64.95,2415,27.6
+813,SD,Huron Regional Arpt,44.4,-98.22,6.96,69.63,2572,29.4
+814,SD,Mitchell  Awos,43.77,-98.03,7.75,70.48,2057,23.5
+815,SD,Mobridge,45.53,-100.43,6.59,70.1,2338,26.7
+816,SD,Pierre Municipal Ap,44.38,-100.28,8.71,64.16,2745,31.3
+817,SD,Rapid City Regional Arpt,44.05,-103.05,8.33,59.42,2837,32.4
+818,SD,Sioux Falls Foss Field,43.58,-96.75,7.86,68.7,2656,30.3
+819,SD,Watertown Municipal Ap,44.93,-97.15,5.68,75.76,2512,28.7
+820,SD,Chan Gurney Muni,42.92,-97.38,9.08,64.1,2443,27.9
+821,TN,Bristol Tri City Airport,36.47,-82.4,12.95,69.99,2803,32
+822,TN,Chattanooga Lovell Field Ap,35.03,-85.2,15.77,71.23,2648,30.2
+823,TN,Crossville Memorial Ap,35.95,-85.08,13.72,74.63,2878,32.9
+824,TN,Dyersburg Municipal Ap,36.02,-89.4,15.56,65.12,2759,31.5
+825,TN,Jackson Mckellar Sipes Regl A,35.6,-88.92,15.44,73.17,2890,33
+826,TN,Knoxville Mcghee Tyson Ap,35.82,-83.98,14.45,70.93,2601,29.7
+827,TN,Memphis International Ap,35.07,-89.98,17.04,65.61,2991,34.1
+828,TN,Nashville International Ap,36.12,-86.68,15.4,68.03,2621,29.9
+829,TX,Abilene Regional Ap  Ut,32.47,-99.71,17.09,58.83,3414,39
+830,TX,Abilene Dyess Afb,32.43,-99.85,19.17,49.16,3367,38.4
+831,TX,Alice Intl Ap,27.73,-98.03,22.53,72.24,2098,23.9
+832,TX,Amarillo International Ap  Can,34.99,-101.9,13.81,57.72,3435,39.2
+833,TX,Camp Mabry,30.32,-97.77,19.9,67.95,2705,30.9
+834,TX,Austin Mueller Municipal Ap  U,30.29,-97.74,20.5,70.98,2709,30.9
+835,TX,Brownsville S Padre Isl Intl,25.9,-97.43,22.69,77.89,2007,22.9
+836,TX,Childress Municipal Ap,34.43,-100.28,16.13,62.29,3123,35.7
+837,TX,College Station Easterwood Fl,30.58,-96.37,19.65,72.23,2654,30.3
+838,TX,Corpus Christi Intl Arpt  Ut,27.88,-97.63,21.71,76.68,2275,26
+839,TX,Corpus Christi Nas,27.68,-97.28,22.91,78.98,2256,25.8
+840,TX,Cotulla Faa Ap,28.45,-99.22,22.46,65.28,2661,30.4
+841,TX,Cox Fld,33.63,-95.45,16.65,63.26,2899,33.1
+842,TX,Dalhart Municipal Ap,36.02,-102.55,11.96,57.98,3316,37.9
+843,TX,Dallas Addison Arpt,32.97,-96.83,18.43,58.24,2939,33.6
+844,TX,Dallas Fort Worth Intl Ap,32.9,-97.02,18.73,64,2822,32.2
+845,TX,Dallas Love Field,32.85,-96.85,19.78,62.1,2430,27.7
+846,TX,Dallas Redbird Arpt,32.68,-96.87,19.72,63.05,2874,32.8
+847,TX,Del Rio  Ut,29.38,-100.91,20.92,62.88,2900,33.1
+848,TX,Del Rio Laughlin Afb,29.37,-100.78,22.76,60.31,3130,35.7
+849,TX,Draughon Miller Cen,31.15,-97.4,18.85,63.11,2640,30.1
+850,TX,El Paso International Ap  Ut,31.77,-106.5,17.98,41.01,4581,52.3
+851,TX,Fort Hood,31.13,-97.72,19.4,60.75,2548,29.1
+852,TX,Fort Worth Nas,32.77,-97.45,18.98,63.49,3106,35.5
+853,TX,Fort Worth Alliance,32.98,-97.32,17.75,66.53,2444,27.9
+854,TX,Fort Worth Meacham,32.82,-97.37,18.17,68.97,2178,24.9
+855,TX,Galveston Scholes,29.3,-94.8,21.27,77.27,2676,30.5
+856,TX,Georgetown  Awos,30.68,-97.68,19.18,57.64,3109,35.5
+857,TX,Greenville Majors,33.07,-96.07,17.76,65.25,2597,29.6
+858,TX,Harlingen Rio Grande Valley I,26.23,-97.65,22.94,77.65,2138,24.4
+859,TX,Hondo Municipal Ap,29.37,-99.17,19.85,70.5,2493,28.5
+860,TX,Houston Bush Intercontinental,30,-95.37,20.36,73,2495,28.5
+861,TX,Houston D W  Hooks,30.07,-95.55,20.56,76.79,2024,23.1
+862,TX,Houston Ellington Afb  Clear L,29.57,-95.09,20.47,73.3,2249,25.7
+863,TX,Houston William P Hobby Ap,29.65,-95.28,21.08,74.23,2927,33.4
+864,TX,Killeen Muni  Awos,31.08,-97.68,19.01,58.28,2922,33.4
+865,TX,Robert Gray Aaf,31.07,-97.83,19.78,57.79,3193,36.4
+866,TX,Kingsville,27.5,-97.82,21.9,75.33,2460,28.1
+867,TX,Laredo Intl Ap  Ut,27.57,-99.49,22.41,55.73,2754,31.4
+868,TX,Longview Gregg County Ap  Over,32.29,-94.98,18.59,68.45,2775,31.7
+869,TX,Lubbock International Ap,33.67,-101.82,15.43,56.37,3563,40.7
+870,TX,Lufkin Angelina Co,31.23,-94.75,18.95,74.82,2519,28.8
+871,TX,Marfa Ap,30.37,-104.02,15.26,45.87,4387,50.1
+872,TX,Mcallen Miller Intl Ap  Edinbu,26.31,-98.17,22.65,73.67,2288,26.1
+873,TX,Mc Gregor  Awos,31.48,-97.32,18.65,60.35,2993,34.2
+874,TX,Midland International Ap,31.95,-102.18,17.42,54.7,4057,46.3
+875,TX,Mineral Wells Municipal Ap,32.78,-98.07,18.26,62.55,2780,31.7
+876,TX,Nacogdoches  Awos,31.58,-94.72,18.11,68.82,2585,29.5
+877,TX,Palacios Municipal Ap,28.72,-96.25,20.75,77.9,2014,23
+878,TX,Port Arthur Jefferson County,29.95,-94.02,20.29,78.06,2271,25.9
+879,TX,Randolph Afb,29.53,-98.28,20.14,63.84,2494,28.5
+880,TX,Rockport Aransas Co,28.08,-97.05,22.57,81.03,1853,21.2
+881,TX,San Angelo Mathis Field,31.35,-100.5,17.78,60.49,3389,38.7
+882,TX,San Antonio Intl Ap,29.53,-98.47,20.39,67.35,2746,31.3
+883,TX,San Antonio Kelly Field Afb,29.38,-98.58,21.04,62.08,2515,28.7
+884,TX,San Antonio Stinson,29.33,-98.47,20.42,66.64,2578,29.4
+885,TX,Tyler Pounds Fld,32.35,-95.4,18.13,69.71,2883,32.9
+886,TX,Victoria Regional Ap,28.87,-96.93,20.72,75.81,2291,26.2
+887,TX,Waco Regional Ap,31.62,-97.23,18.82,69.37,2523,28.8
+888,TX,Wichita Falls Municipal Arpt,33.98,-98.5,17.33,63.5,2846,32.5
+889,TX,Wink Winkler County Ap,31.78,-103.2,18.99,49.58,3695,42.2
+890,UT,Blanding,37.62,-109.48,11.25,46.95,3132,35.8
+891,UT,Bryce Cnyn Faa Ap,37.7,-112.15,5.06,55.64,2103,24
+892,UT,Cedar City Municipal Ap,37.7,-113.1,10.81,45.96,3163,36.1
+893,UT,Delta,39.33,-112.58,10.36,52.1,2694,30.8
+894,UT,Hanksville,38.37,-110.72,12.54,48.63,2935,33.5
+895,UT,Moab Canyonlands  Uo,38.58,-109.54,12.73,43.58,3449,39.4
+896,UT,Ogden Hill Afb,41.12,-111.97,10.68,49.6,3152,36
+897,UT,Ogden Hinkley Airport,41.2,-112.02,11.19,51.14,3102,35.4
+898,UT,Provo Muni  Awos,40.22,-111.72,10.78,56.21,3030,34.6
+899,UT,Saint George  Awos,37.08,-113.6,18.52,34.3,3920,44.7
+900,UT,Salt Lake City IntL Arpt  Isis,40.77,-111.97,11.87,54.24,3255,37.2
+901,UT,Vernal,40.43,-109.52,9.01,55.57,2826,32.3
+902,UT,Wendover Usaf Auxiliary Field,40.72,-114.03,11.23,43.17,3183,36.3
+903,VA,Abington,36.68,-82.03,12.17,66.66,3058,34.9
+904,VA,Washington Dc Reagan Ap,38.87,-77.03,14.13,66.45,2601,29.7
+905,VA,Virginia Tech Arpt,37.22,-80.42,11.61,66.88,3055,34.9
+906,VA,Charlottesville Faa,38.13,-78.45,14.35,65.61,3213,36.7
+907,VA,Danville Faa Ap,36.57,-79.33,15.15,68.89,2421,27.6
+908,VA,Davison Aaf,38.72,-77.18,13.35,68.63,2228,25.4
+909,VA,Farmville,37.35,-78.43,14.06,70.55,2879,32.9
+910,VA,Franklin Naas,36.7,-76.9,16.04,68.58,3070,35
+911,VA,Shannon Arpt,38.27,-77.45,13.43,67.37,2544,29
+912,VA,Hillsville,36.77,-80.82,10.81,70.48,2597,29.6
+913,VA,Hot Springs Ingalls,37.95,-79.83,8.58,70.18,3276,37.4
+914,VA,Langley Afb,37.08,-76.35,14.2,70.09,2635,30.1
+915,VA,Leesburg Godfrey,39.08,-77.57,12.12,66.8,2376,27.1
+916,VA,Lynchburg Regional Arpt,37.33,-79.2,13.85,66.34,2603,29.7
+917,VA,Manassas Muni Awos,38.72,-77.52,11.9,65.68,2330,26.6
+918,VA,Marion   Wytheville,36.9,-81.35,11.88,66.88,3453,39.4
+919,VA,Martinsville,36.63,-80.02,13.04,68.48,2597,29.6
+920,VA,Melfa Accomack Arpt,37.65,-75.77,14.64,72.44,2654,30.3
+921,VA,Newport News,37.13,-76.5,15.71,70.49,2852,32.6
+922,VA,Norfolk International Ap,36.9,-76.2,15.61,69,2820,32.2
+923,VA,Norfolk Nas,36.95,-76.28,16.17,70.28,3083,35.2
+924,VA,Oceana Nas,36.82,-76.03,15.74,73.93,2720,31.1
+925,VA,Dinwiddie Co,37.18,-77.52,14.99,76.21,2452,28
+926,VA,Pulaski,37.13,-80.68,11.38,66.33,3445,39.3
+927,VA,Quantico Mcas,38.5,-77.3,13.92,72,2639,30.1
+928,VA,Richmond International Ap,37.52,-77.32,14.68,69.12,2804,32
+929,VA,Roanoke Regional Ap,37.32,-79.97,13.57,66.44,3002,34.3
+930,VA,Staunton Shenandoah,38.27,-78.9,12.73,65.65,2789,31.8
+931,VA,Washington Dc Dulles IntL Ar,38.98,-77.47,12.67,69.01,2288,26.1
+932,VA,Winchester Rgnl,39.15,-78.15,12.33,63.6,2620,29.9
+933,VA,Wise Lonesome Pine,36.98,-82.53,11.89,66.72,3247,37.1
+934,VT,Burlington International Ap,44.47,-73.15,7.87,67.83,2681,30.6
+935,VT,Montpelier Ap,44.2,-72.57,7.24,71.88,2437,27.8
+936,VT,Rutland State,43.52,-72.95,7.7,66.38,2583,29.5
+937,VT,Springfield Hartnes,43.35,-72.52,7.7,76.39,2401,27.4
+938,WA,Bellingham Intl Ap,48.8,-122.53,9.55,80,2755,31.4
+939,WA,Bremerton National,47.48,-122.75,10.06,75.12,2479,28.3
+940,WA,Ephrata Ap Fcwos,47.3,-119.52,11.43,57.51,3327,38
+941,WA,Fairchild Afb,47.63,-117.65,7.8,65.12,2323,26.5
+942,WA,Gray Aaf,47.08,-122.58,9.99,75.77,2878,32.9
+943,WA,Hanford,46.57,-119.6,11.33,53.44,3332,38
+944,WA,Hoquiam Ap,46.98,-123.93,10.34,85.42,2854,32.6
+945,WA,Kelso Wb Ap,46.13,-122.9,11.19,75.65,3202,36.6
+946,WA,Moses Lake Grant County Ap,47.2,-119.32,11.18,63.95,3281,37.5
+947,WA,Olympia Airport,46.97,-122.9,10.31,81.22,2827,32.3
+948,WA,Pasco,46.27,-119.12,12.12,66.8,3167,36.2
+949,WA,William R Fairchild,48.12,-123.5,9.26,81.07,2251,25.7
+950,WA,Pullman Moscow Rgnl,46.75,-117.12,8.95,67.69,2239,25.6
+951,WA,Quillayute State Airport,47.93,-124.57,9.63,85.59,2534,28.9
+952,WA,Renton Muni,47.48,-122.22,11.84,74.46,3554,40.6
+953,WA,Seattle Boeing Field  Isis,47.68,-122.25,11.85,74.34,3648,41.6
+954,WA,Seattle Seattle Tacoma Intl A,47.47,-122.32,11.24,74.25,3434,39.2
+955,WA,Snohomish Co,47.9,-122.28,10.45,79.9,2794,31.9
+956,WA,Spokane International Ap  Chen,47.49,-117.59,8.7,64.62,2595,29.6
+957,WA,Felts Fld,47.68,-117.32,9.62,67.7,2619,29.9
+958,WA,Stampede Pass,47.28,-121.33,4.72,79.5,1484,16.9
+959,WA,Tacoma Narrows,47.27,-122.58,11.06,77.77,3144,35.9
+960,WA,Tacoma Mcchord Afb,47.15,-122.48,9.91,73.39,2946,33.6
+961,WA,The Dalles Municipal Arpt,45.62,-121.15,12.73,63.46,3679,42
+962,WA,Toledo Winlock Mem,46.48,-122.8,9.31,82.35,2690,30.7
+963,WA,Walla Walla City County Ap,46.1,-118.28,12.11,61.41,3507,40
+964,WA,Wenatchee Pangborn,47.4,-120.2,10.81,60.88,3295,37.6
+965,WA,Whidbey Island Nas,48.35,-122.67,9.81,83.52,2403,27.4
+966,WA,Yakima Air Terminal,46.57,-120.55,9.97,63.44,3034,34.6
+967,WI,Appleton Outagamie,44.25,-88.52,8.48,74.47,2300,26.3
+968,WI,Eau Claire County Ap,44.87,-91.48,6.55,70.12,2394,27.3
+969,WI,Antigo Lang Awos,45.15,-87.15,5.98,80.26,1917,21.9
+970,WI,Green Bay Austin Straubel Int,44.48,-88.13,7.36,73.27,2453,28
+971,WI,Janesville Rock Co,42.62,-89.03,8.69,72.96,2792,31.9
+972,WI,La Crosse Municipal Arpt,43.87,-91.25,8.18,68.62,2176,24.8
+973,WI,Lone Rock Faa Ap,43.2,-90.18,9.15,72.87,2604,29.7
+974,WI,Madison Dane Co Regional Arpt,43.13,-89.33,7.73,74.24,2082,23.8
+975,WI,Manitowac Muni Awos,44.13,-87.68,7.97,72.19,2282,26.1
+976,WI,Marshfield Muni,44.63,-90.18,7.76,72.03,2684,30.6
+977,WI,Milwaukee Mitchell Intl Ap,42.95,-87.9,8.09,73.35,2353,26.9
+978,WI,Minocqua Woodruff,45.93,-89.73,5.86,71.21,2590,29.6
+979,WI,Mosinee Central Wi,44.78,-89.67,5.74,70.83,2555,29.2
+980,WI,Phillips Price Co,45.7,-90.4,6.07,73.53,2449,28
+981,WI,Rice Lake Municipal,45.48,-91.72,5.98,74.24,2068,23.6
+982,WI,Sturgeon Bay,44.85,-87.42,7.89,68.48,2736,31.2
+983,WI,Watertown,43.17,-88.72,9.07,79.63,2129,24.3
+984,WI,Wausau Municipal Arpt,44.92,-89.63,7.45,66.41,2393,27.3
+985,WI,Wittman Rgnl,43.98,-88.55,6.87,73.98,2545,29.1
+986,WV,Beckley Raleigh Co Mem Ap,37.8,-81.12,11.02,72.98,2559,29.2
+987,WV,Bluefield Mercer Co  Nrel,37.27,-81.24,12.16,67.59,3507,40
+988,WV,Charleston Yeager Arpt,38.38,-81.58,12.71,70.79,2536,28.9
+989,WV,Harrison Marion Rgn,39.28,-80.23,11.91,70.57,2804,32
+990,WV,Elkins Elkins Randolph Co Arp,38.88,-79.85,9.67,75.59,2472,28.2
+991,WV,Huntington Tri State Arpt,38.38,-82.55,12.92,69.56,2752,31.4
+992,WV,Lewisburg Greenbrie,37.87,-80.4,9.39,77.15,2434,27.8
+993,WV,Martinsburg Eastern Wv Reg Ap,39.4,-77.98,12.86,69.44,3083,35.2
+994,WV,Morgantown Hart Field,39.65,-79.92,11.67,73.21,3056,34.9
+995,WV,Parkersburg Wood County Ap,39.35,-81.43,12.35,71.12,2357,26.9
+996,WV,Wheeling Ohio County Ap,40.18,-80.65,10.53,71.91,2792,31.9
+997,WY,Casper Natrona Co Intl Ap,42.9,-106.47,7.73,53.46,2544,29
+998,WY,Cheyenne Municipal Arpt,41.15,-104.8,7.52,52.81,2634,30.1
+999,WY,Cody Muni  Awos,44.52,-109.02,8.3,46.46,2608,29.8
+1000,WY,Evanston Burns Fld,41.28,-111.03,5.86,57.76,2519,28.8
+1001,WY,Gillette Gillette C,44.35,-105.53,8.95,58.88,2646,30.2
+1002,WY,Rock Springs Arpt  Green River,41.46,-109.44,6.49,54.87,2420,27.6
+1003,WY,Jackson Hole,43.6,-110.73,3.77,62.55,1666,19
+1004,WY,Lander Hunt Field,42.82,-108.73,7.57,48.75,2817,32.2
+1005,WY,Laramie General Brees Field,41.32,-105.68,6.72,55.57,2482,28.3
+1006,WY,Rawlins Municipal Ap,41.8,-107.2,7.43,54.07,2585,29.5
+1007,WY,Riverton Municipl Ap,43.05,-108.45,7.88,53.23,2692,30.7
+1008,WY,Sheridan County Arpt,44.77,-106.97,8.03,60.06,2724,31.1
+1009,WY,Worland Municipal,43.97,-107.95,7.91,57.29,2633,30.1

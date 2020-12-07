@@ -1,0 +1,104 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="description" content="">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Regional NV hour</title>
+
+		<!-- Load CSS libraries -->
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+		<link rel="stylesheet" href="../static/css/mystyle.css">
+
+		<!-- GOOGLE FONTS -->
+		<link href='https://fonts.googleapis.com/css?family=Roboto:400,100,300,500,400italic,300italic' rel='stylesheet' type='text/css'>
+	</head>
+
+	<!-- SOME SAMPLE HTML HERE - DELETE EVERYTHING INSIDE THE BODY EXCEPT THE SCRIPTS ON THE BOTTOM TO START FROM SCRATCH -->
+	<!-- DON'T WRITE CSS IN YOUR HTML LIKE WE DID HERE - THE INLINE CSS SHOULD HELP YOU TO UNDERSTAND THE BEHAVIOR OF THE ELEMENTS BETTER -
+		 WHEN SUBMITTING, WE ALWAYS EXPECT CLEAR SEPARATION OF HTML, CSS, AND JS INTO THE PROPER FILES -->
+	<body>
+	<!-- Navigation -->
+		<nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+			<div class="container">
+				<a class="navbar-brand" href="#">Harvard CGBC</a>
+				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+					<span class="navbar-toggler-icon"></span>
+				</button>
+				<div class="collapse navbar-collapse" id="navbarResponsive">
+					<ul class="navbar-nav ml-auto">
+						<li class="nav-item active">
+							<a class="nav-link" href="#">Home
+								<span class="sr-only">(current)</span>
+							</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link" href="#">About</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link" href="#">Background</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link" href="contact.html">Contact</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</nav>
+
+	<section>
+			<div class="container"  style="background-color:white;">
+				<h1 class="title" id="title_location">Regional NV hour - </h1>
+				<p class="subtitle">Annual</p>
+				<div id="total_nv"></div>
+				<div class="row justify-content-center" style="height: 320px;">
+					<div class="align-self-center">
+						<div id="Chart_1"></div>
+					</div>
+				</div>
+				<div class="row" style="height: 350px;">
+					<div class="col-md-6" style="text-align:center;">
+						<p class="subtitle" id="month_subtitle">Monthly</p>
+						<div id="Chart_2"></div>
+					</div>
+					</div>
+					<div class="col-md-6" style="text-align:center;">
+						<p class="subtitle" id="day_subtitle">Daily</p>
+						<div id="Chart_3"></div>
+					</div>
+				</div>
+			</div>
+
+		<footer class="py-5 bg-dark">
+			<div class="container" class="text-center">
+				<!--Grid row-->
+				<div class="row justify-content-center" >
+					<div align="center"><img src="../static/img/CGBClogo.png"  class="img-fluid" style="width: auto; height: 100px;"
+											 alt="">            </div>
+					<div align="center"><img src="../static/img/GSDlogo.png" class="img-fluid" style="width: auto; height: 100px;"
+											 alt="">            </div>
+				</div>
+				<hr>
+				<p class="m-0 text-center text-white">Copyright &copy; Harvard Center for Green Buildings and Cities</p>
+			</div>
+			<!-- /.container -->
+		</footer>
+	</section>
+
+
+
+
+
+	<!-- embedding JS libraries -->
+	<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+	<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+
+	<!-- d3 -->
+{#	<script src="https://d3js.org/d3.v6.min.js"></script>#}
+	<script src="../static/js/d3.js"></script>
+{#    <script src="../static/js/d3.min.js"></script>#}
+	<!-- own js files -->
+	<script src="../static/js/main.js"></script>
+	</body>
+</html>

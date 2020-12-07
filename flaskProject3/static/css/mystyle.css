@@ -1,0 +1,89 @@
+body {
+    background: no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    background-color: #F1F3F3;
+    /*background-color: floralwhite;*/
+}
+
+.title {
+    font: 20px Arial, sans-serif;
+    font-weight: bold;
+    padding-top: 100px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+.subtitle {
+    font: 20px Arial, sans-serif;
+    text-align: center;
+}
+
+.message {
+    font: 14px Arial, sans-serif;
+}
+
+.clock {
+    font: 10px Arial, sans-serif;
+}
+
+.cell1 {
+    stroke-width: 0.1;
+    stroke: #f2f2f2;
+}
+
+
+.cell2 {
+    stroke-width: 0.5;
+    stroke: #f2f2f2;
+}
+
+.cell3 {
+    stroke-width: 0.5;
+    stroke: #e6e6e6;
+}
+
+.arc:hover{
+    fill: #66cc66;
+    opacity: 0.3;
+}
+
+
+.outline {
+    stroke-width: 0.2;
+    stroke: #808080;
+}
+
+.axis path {
+    display: none;
+}
+
+
+.axis {
+    font: 12px Arial, sans-serif;
+}
+
+.interactivity {
+    stroke-width: 0.3;
+    stroke: #808080;
+}
+
+.interactivity2 {
+    stroke-width: 0.1;
+    stroke: #b3b3b3;
+}
+
+
+
+.container {
+    max-width: 1920px;
+    width: 80%;
+}
+
+
+#total_nv {
+    text-align: center;
+}
+

@@ -1,0 +1,401 @@
+
+/* YOUR CSS STYLES */
+
+/*html, body {*/
+/*    */
+/*    width: 100%;*/
+/*    height: 100%;*/
+/*    display: flex;*/
+/*    background-color: #999;*/
+/*}*/
+
+
+body {
+    font: 1.1em sans-serif;
+}
+
+#chart{
+    width: 800px;
+    margin: 0 auto;
+}
+.background {
+    fill: #eee;
+}
+
+line {
+    stroke: #fff;
+}
+
+text.active {
+    fill: red;
+}
+
+.day {
+    fill: #fff;
+    stroke: #ccc;
+}
+
+.month {
+    fill: none;
+    stroke: #fff;
+    stroke-width: 4px;
+}
+.year-title {
+    font-size: 1.5em;
+}
+
+/* color ranges */
+.RdYlGn .q0-11{fill:rgb(165,0,38)}
+.RdYlGn .q1-11{fill:rgb(215,48,39)}
+.RdYlGn .q2-11{fill:rgb(244,109,67)}
+.RdYlGn .q3-11{fill:rgb(253,174,97)}
+.RdYlGn .q4-11{fill:rgb(254,224,139)}
+.RdYlGn .q5-11{fill:rgb(255,255,191)}
+.RdYlGn .q6-11{fill:rgb(217,239,139)}
+.RdYlGn .q7-11{fill:rgb(166,217,106)}
+.RdYlGn .q8-11{fill:rgb(102,189,99)}
+.RdYlGn .q9-11{fill:rgb(26,152,80)}
+.RdYlGn .q10-11{fill:rgb(0,104,55)}
+
+/* hover info */
+#tooltip {
+    background-color: #fff;
+    border: 2px solid #ccc;
+    padding: 10px;
+}
+
+body {
+    background: no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.parent {
+    margin: auto;
+    background-color: #000;
+    display: flex;
+    height: 80%;
+    width: 80%;
+}
+
+.child {
+    margin: auto;  /* Magic! */
+    max-width: 100%;
+    max-height: 100%;
+}
+
+body {
+    background-color: #F1F3F3;
+    /*background-color: floralwhite;*/
+}
+
+ppp{
+    text-align: center;
+    align-content: center;
+    font-family: 'Open Sans';
+    /*font-weight: 300;*/
+    color:rgb(100,100,90);
+    font-size: 22px;
+}
+
+
+pp{
+    text-align: center;
+    align-content: center;
+    font-family: 'Open Sans';
+    /*font-style: black;*/
+    font-weight: 800;
+    color:rgb(100,100,90);
+    font-size: 28px;
+}
+
+p{
+    font-family: "Open Sans";
+    color:rgb(100,100,90);
+    font-size: 18px;
+    /*margin-left: 50px;*/
+}
+
+h3{
+    font-family: "avenir next", Arial, sans-serif;
+    /*padding-left: 20px;*/
+}
+
+
+h5{
+    text-align: center;
+    align-content: center;
+    font-family: "avenir next", Arial, sans-serif;
+    /*padding-left: 20px;*/
+}
+
+h2{
+    font-family: "Helvetica Neue";
+    /*padding-left: 20px;*/
+}
+
+h4{
+    font-family:Helvetica;
+    /*padding-left: 20px;*/
+}
+
+
+.well{
+    font-family:Helvetica;
+    /*padding-left: 20px;*/
+}
+
+.panel-body{
+
+    font-family: "Arial Narrow";
+    font-size: 12px;
+
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+}
+.axis text {
+    font-size: 11px;
+}
+
+.p1{
+    font-size: 12px;
+}
+
+.axisT{
+    font-size: 12px;
+    color : dimgray;
+}
+
+.legendText{
+    font-size: 10px;
+
+}
+
+.labelT{
+    font-size: 12px;
+}
+
+.labelHeight{
+    font-size: 8px;
+}
+
+.col-xs-2{
+    background:lightgray;
+    color:#FFF;
+}
+.col-half-offset{
+    margin-left:4.166666667%
+}
+
+
+.bootCols{
+    height:100px;
+    margin:0;
+    box-sizing:border-box;
+    padding:5px;
+    border:1px solid black;
+    background:lightgray;
+    color:#FFF;
+}
+
+/* Style the lines by removing the fill and applying a stroke */
+.line {
+    fill: none;
+    stroke: #ffab00;
+    stroke-width: 1;
+}
+
+/* Style the dots by assigning a fill and stroke */
+.dot {
+    fill: #ffab00;
+    stroke: #fff;
+}
+
+
+.white-box{
+
+    background: #fff;
+    padding: 25px;
+    margin-bottom: 30px;
+    height: 90%;
+}
+
+.container-fluid{
+
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 15px;
+    background: #f8f9fa;
+
+}
+
+
+.names {
+    fill: none;
+    stroke: #fff;
+    stroke-linejoin: round;
+}
+
+/* Tooltip CSS */
+.d3-tip {
+    line-height: 1.5;
+    font-weight: 400;
+    font-family:"avenir next", Arial, sans-serif;
+    padding: 6px;
+    background: rgba(0, 0, 0, 0.6);
+    color: #FFA500;
+    border-radius: 1px;
+    pointer-events: none;
+}
+
+/* Creates a small triangle extender for the tooltip */
+.d3-tip:after {
+    box-sizing: border-box;
+    display: inline;
+    font-size: 8px;
+    width: 100%;
+    line-height: 1.5;
+    color: rgba(0, 0, 0, 0.6);
+    position: absolute;
+    pointer-events: none;
+
+}
+
+/* Northward tooltips */
+.d3-tip.n:after {
+    content: "\25BC";
+    margin: -1px 0 0 0;
+    top: 100%;
+    left: 0;
+    text-align: center;
+}
+
+/* Eastward tooltips */
+.d3-tip.e:after {
+    content: "\25C0";
+    margin: -4px 0 0 0;
+    top: 50%;
+    left: -8px;
+}
+
+/* Southward tooltips */
+.d3-tip.s:after {
+    content: "\25B2";
+    margin: 0 0 1px 0;
+    top: -8px;
+    left: 0;
+    text-align: center;
+}
+
+/* Westward tooltips */
+.d3-tip.w:after {
+    content: "\25B6";
+    margin: -4px 0 0 -1px;
+    top: 50%;
+    left: 100%;
+}
+
+/*    text{
+      pointer-events:none;
+    }*/
+
+.details{
+    color:white;
+}
+
+
+.node circle{
+
+    fill: #fff;
+    /*fill: darkgray;*/
+    stroke: gray;
+    stroke-width: 1px;
+}
+
+.node text { font: 10px sans-serif;
+    /*color: deeppink;*/
+}
+
+.node--internal text {
+    text-shadow: 0 1px 0 #fff, 0 -1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff;
+}
+
+.link {
+    fill: none;
+    /*stroke: #ccc;*/
+    /*color: dodgerblue;*/
+    stroke: dodgerblue;
+    stroke-width: 2px;
+}
+
+
+
+.axis {
+    font: 15px sans-serif;
+}
+.axis path,
+.axis line {
+    fill: none;
+    stroke: #D4D8DA;
+    stroke-width: 2px;
+    shape-rendering: crispEdges;
+}
+#chart {
+    position: absolute;
+    top: 50px;
+    left: 100px;
+}
+
+.toolTip {
+    pointer-events: none;
+    position: absolute;
+    display: none;
+    min-width: 50px;
+    height: auto;
+    /*background: none repeat scroll 0 0 #ffffff;*/
+    padding: 9px 14px 6px 14px;
+    border-radius: 2px;
+    text-align: center;
+    line-height: 1.3;
+    color: #5B6770;
+    box-shadow: 0px 3px 9px rgba(0, 0, 0, .15);
+}
+.toolTip:after {
+    content: "";
+    width: 0;
+    height: 0;
+    border-left: 12px solid transparent;
+    border-right: 12px solid transparent;
+    border-top: 12px solid white;
+    position: absolute;
+    bottom: -10px;
+    left: 50%;
+    margin-left: -12px;
+}
+.toolTip span {
+    font-weight: 500;
+    color: #081F2C;
+}
+
+.text-success{color:#7ace4c;
+    font-size: 22px;
+}
+
+
+.text-purple{color:#707cd2;
+    font-size: 22px;
+}
+
